@@ -1,0 +1,5485 @@
+{
+  "states": [
+    {
+      "name": "Maharashtra",
+      "districts": [
+        {
+          "name": "Pune",
+          "cases": "713144",
+          "recovered": "583865",
+          "deaths": "8772",
+          "active": "120452"
+        },
+        {
+          "name": "Mumbai",
+          "cases": "571018",
+          "recovered": "471080",
+          "deaths": "12301",
+          "active": "86433"
+        },
+        {
+          "name": "Thane",
+          "cases": "445013",
+          "recovered": "356548",
+          "deaths": "6387",
+          "active": "82047"
+        },
+        {
+          "name": "Nagpur",
+          "cases": "324714",
+          "recovered": "247336",
+          "deaths": "4472",
+          "active": "72860"
+        },
+        {
+          "name": "Nashik",
+          "cases": "244956",
+          "recovered": "201932",
+          "deaths": "2574",
+          "active": "40449"
+        },
+        {
+          "name": "Ahmednagar",
+          "cases": "130336",
+          "recovered": "108291",
+          "deaths": "1467",
+          "active": "20577"
+        },
+        {
+          "name": "Aurangabad",
+          "cases": "107042",
+          "recovered": "92017",
+          "deaths": "1512",
+          "active": "13499"
+        },
+        {
+          "name": "Jalgaon",
+          "cases": "104906",
+          "recovered": "91364",
+          "deaths": "1718",
+          "active": "11797"
+        },
+        {
+          "name": "Raigad",
+          "cases": "100765",
+          "recovered": "87569",
+          "deaths": "1754",
+          "active": "11440"
+        },
+        {
+          "name": "Solapur",
+          "cases": "84263",
+          "recovered": "70490",
+          "deaths": "2063",
+          "active": "11656"
+        },
+        {
+          "name": "Satara",
+          "cases": "80252",
+          "recovered": "66617",
+          "deaths": "2001",
+          "active": "11625"
+        },
+        {
+          "name": "Palghar",
+          "cases": "69590",
+          "recovered": "57329",
+          "deaths": "1132",
+          "active": "11119"
+        },
+        {
+          "name": "Nanded",
+          "cases": "67904",
+          "recovered": "53805",
+          "deaths": "1186",
+          "active": "12906"
+        },
+        {
+          "name": "Sangli",
+          "cases": "63344",
+          "recovered": "54829",
+          "deaths": "1909",
+          "active": "6604"
+        },
+        {
+          "name": "Kolhapur",
+          "cases": "55747",
+          "recovered": "50558",
+          "deaths": "1721",
+          "active": "3465"
+        },
+        {
+          "name": "Amravati",
+          "cases": "55535",
+          "recovered": "49563",
+          "deaths": "734",
+          "active": "5236"
+        },
+        {
+          "name": "Latur",
+          "cases": "54011",
+          "recovered": "37804",
+          "deaths": "855",
+          "active": "15348"
+        },
+        {
+          "name": "Chandrapur",
+          "cases": "40841",
+          "recovered": "29306",
+          "deaths": "507",
+          "active": "11026"
+        },
+        {
+          "name": "Beed",
+          "cases": "38952",
+          "recovered": "29165",
+          "deaths": "731",
+          "active": "9047"
+        },
+        {
+          "name": "Buldhana",
+          "cases": "37227",
+          "recovered": "35498",
+          "deaths": "341",
+          "active": "1383"
+        },
+        {
+          "name": "Bhandara",
+          "cases": "36566",
+          "recovered": "22047",
+          "deaths": "334",
+          "active": "14182"
+        },
+        {
+          "name": "Akola",
+          "cases": "34149",
+          "recovered": "30222",
+          "deaths": "537",
+          "active": "3386"
+        },
+        {
+          "name": "Jalna",
+          "cases": "34060",
+          "recovered": "24264",
+          "deaths": "542",
+          "active": "9253"
+        },
+        {
+          "name": "Yavatmal",
+          "cases": "34039",
+          "recovered": "28382",
+          "deaths": "617",
+          "active": "5036"
+        },
+        {
+          "name": "Dhule",
+          "cases": "33690",
+          "recovered": "25537",
+          "deaths": "405",
+          "active": "7744"
+        },
+        {
+          "name": "Wardha",
+          "cases": "30228",
+          "recovered": "25219",
+          "deaths": "415",
+          "active": "4518"
+        },
+        {
+          "name": "Osmanabad",
+          "cases": "29602",
+          "recovered": "23494",
+          "deaths": "691",
+          "active": "5400"
+        },
+        {
+          "name": "Nandurbar",
+          "cases": "27785",
+          "recovered": "20089",
+          "deaths": "381",
+          "active": "7314"
+        },
+        {
+          "name": "Parbhani",
+          "cases": "25040",
+          "recovered": "13456",
+          "deaths": "448",
+          "active": "11125"
+        },
+        {
+          "name": "Gondia",
+          "cases": "24640",
+          "recovered": "16371",
+          "deaths": "225",
+          "active": "8038"
+        },
+        {
+          "name": "Washim",
+          "cases": "21942",
+          "recovered": "18030",
+          "deaths": "217",
+          "active": "3692"
+        },
+        {
+          "name": "Ratnagiri",
+          "cases": "15835",
+          "recovered": "12370",
+          "deaths": "444",
+          "active": "3019"
+        },
+        {
+          "name": "Gadchiroli",
+          "cases": "13244",
+          "recovered": "10815",
+          "deaths": "121",
+          "active": "2300"
+        },
+        {
+          "name": "Hingoli",
+          "cases": "10459",
+          "recovered": "8528",
+          "deaths": "127",
+          "active": "1804"
+        },
+        {
+          "name": "Sindhudurg",
+          "cases": "9722",
+          "recovered": "7384",
+          "deaths": "218",
+          "active": "2120"
+        },
+        {
+          "name": "Other State",
+          "cases": "146",
+          "recovered": "0",
+          "deaths": "111",
+          "active": "33"
+        },
+        {
+          "name": "Mumbai Suburban",
+          "cases": "0",
+          "recovered": "0",
+          "deaths": "0",
+          "active": "0"
+        }
+      ],
+      "cases": "3770707",
+      "recovered": "3061174",
+      "active": "647933",
+      "deaths": "59970"
+    },
+    {
+      "name": "Kerala",
+      "districts": [
+        {
+          "name": "Ernakulam",
+          "cases": "144072",
+          "recovered": "131507",
+          "deaths": "480",
+          "active": "12053"
+        },
+        {
+          "name": "Kozhikode",
+          "cases": "141993",
+          "recovered": "131550",
+          "deaths": "552",
+          "active": "9861"
+        },
+        {
+          "name": "Malappuram",
+          "cases": "131937",
+          "recovered": "125508",
+          "deaths": "463",
+          "active": "5946"
+        },
+        {
+          "name": "Thiruvananthapuram",
+          "cases": "115429",
+          "recovered": "109097",
+          "deaths": "912",
+          "active": "5328"
+        },
+        {
+          "name": "Thrissur",
+          "cases": "111610",
+          "recovered": "105521",
+          "deaths": "520",
+          "active": "5551"
+        },
+        {
+          "name": "Kollam",
+          "cases": "97386",
+          "recovered": "94918",
+          "deaths": "361",
+          "active": "2083"
+        },
+        {
+          "name": "Kottayam",
+          "cases": "92248",
+          "recovered": "85946",
+          "deaths": "237",
+          "active": "6055"
+        },
+        {
+          "name": "Alappuzha",
+          "cases": "87250",
+          "recovered": "83043",
+          "deaths": "428",
+          "active": "3753"
+        },
+        {
+          "name": "Kannur",
+          "cases": "67732",
+          "recovered": "59500",
+          "deaths": "357",
+          "active": "7842"
+        },
+        {
+          "name": "Palakkad",
+          "cases": "66685",
+          "recovered": "61032",
+          "deaths": "187",
+          "active": "5455"
+        },
+        {
+          "name": "Pathanamthitta",
+          "cases": "64078",
+          "recovered": "59767",
+          "deaths": "138",
+          "active": "4165"
+        },
+        {
+          "name": "Kasaragod",
+          "cases": "36571",
+          "recovered": "31744",
+          "deaths": "118",
+          "active": "4700"
+        },
+        {
+          "name": "Idukki",
+          "cases": "32849",
+          "recovered": "28602",
+          "deaths": "51",
+          "active": "4191"
+        },
+        {
+          "name": "Wayanad",
+          "cases": "31328",
+          "recovered": "28186",
+          "deaths": "96",
+          "active": "3041"
+        },
+        {
+          "name": "Other State",
+          "cases": "0",
+          "recovered": "0",
+          "deaths": "0",
+          "active": "0"
+        }
+      ],
+      "cases": "1221168",
+      "recovered": "1135921",
+      "active": "80024",
+      "deaths": "4900"
+    },
+    {
+      "name": "Karnataka",
+      "districts": [
+        {
+          "name": "Bengaluru Urban",
+          "cases": "533842",
+          "recovered": "441054",
+          "deaths": "5063",
+          "active": "87724"
+        },
+        {
+          "name": "Mysuru",
+          "cases": "60974",
+          "recovered": "56782",
+          "deaths": "1111",
+          "active": "3081"
+        },
+        {
+          "name": "Ballari",
+          "cases": "41853",
+          "recovered": "39567",
+          "deaths": "614",
+          "active": "1672"
+        },
+        {
+          "name": "Dakshina Kannada",
+          "cases": "37871",
+          "recovered": "35504",
+          "deaths": "742",
+          "active": "1623"
+        },
+        {
+          "name": "Hassan",
+          "cases": "31657",
+          "recovered": "29680",
+          "deaths": "421",
+          "active": "1556"
+        },
+        {
+          "name": "Tumakuru",
+          "cases": "30842",
+          "recovered": "27163",
+          "deaths": "415",
+          "active": "3264"
+        },
+        {
+          "name": "Kalaburagi",
+          "cases": "28877",
+          "recovered": "25248",
+          "deaths": "378",
+          "active": "3251"
+        },
+        {
+          "name": "Belagavi",
+          "cases": "28690",
+          "recovered": "27480",
+          "deaths": "353",
+          "active": "857"
+        },
+        {
+          "name": "Udupi",
+          "cases": "26588",
+          "recovered": "25812",
+          "deaths": "193",
+          "active": "583"
+        },
+        {
+          "name": "Dharwad",
+          "cases": "24820",
+          "recovered": "23008",
+          "deaths": "646",
+          "active": "1166"
+        },
+        {
+          "name": "Shivamogga",
+          "cases": "23720",
+          "recovered": "22685",
+          "deaths": "354",
+          "active": "681"
+        },
+        {
+          "name": "Davanagere",
+          "cases": "23334",
+          "recovered": "22567",
+          "deaths": "264",
+          "active": "503"
+        },
+        {
+          "name": "Mandya",
+          "cases": "21839",
+          "recovered": "20688",
+          "deaths": "165",
+          "active": "986"
+        },
+        {
+          "name": "Bengaluru Rural",
+          "cases": "21697",
+          "recovered": "19802",
+          "deaths": "177",
+          "active": "1718"
+        },
+        {
+          "name": "Vijayapura",
+          "cases": "16526",
+          "recovered": "15188",
+          "deaths": "213",
+          "active": "1125"
+        },
+        {
+          "name": "Uttara Kannada",
+          "cases": "16079",
+          "recovered": "15432",
+          "deaths": "186",
+          "active": "461"
+        },
+        {
+          "name": "Chitradurga",
+          "cases": "15727",
+          "recovered": "15402",
+          "deaths": "70",
+          "active": "255"
+        },
+        {
+          "name": "Raichur",
+          "cases": "15308",
+          "recovered": "14478",
+          "deaths": "158",
+          "active": "672"
+        },
+        {
+          "name": "Chikkaballapura",
+          "cases": "15192",
+          "recovered": "14161",
+          "deaths": "122",
+          "active": "908"
+        },
+        {
+          "name": "Chikkamagaluru",
+          "cases": "14968",
+          "recovered": "14322",
+          "deaths": "142",
+          "active": "504"
+        },
+        {
+          "name": "Koppal",
+          "cases": "14815",
+          "recovered": "13904",
+          "deaths": "280",
+          "active": "631"
+        },
+        {
+          "name": "Bagalkote",
+          "cases": "14519",
+          "recovered": "14099",
+          "deaths": "138",
+          "active": "282"
+        },
+        {
+          "name": "Bidar",
+          "cases": "13182",
+          "recovered": "10234",
+          "deaths": "204",
+          "active": "2740"
+        },
+        {
+          "name": "Kolar",
+          "cases": "11787",
+          "recovered": "11024",
+          "deaths": "184",
+          "active": "579"
+        },
+        {
+          "name": "Yadgir",
+          "cases": "11603",
+          "recovered": "10870",
+          "deaths": "63",
+          "active": "670"
+        },
+        {
+          "name": "Gadag",
+          "cases": "11541",
+          "recovered": "11207",
+          "deaths": "141",
+          "active": "193"
+        },
+        {
+          "name": "Haveri",
+          "cases": "11369",
+          "recovered": "10917",
+          "deaths": "192",
+          "active": "260"
+        },
+        {
+          "name": "Ramanagara",
+          "cases": "8177",
+          "recovered": "7625",
+          "deaths": "80",
+          "active": "472"
+        },
+        {
+          "name": "Chamarajanagara",
+          "cases": "7795",
+          "recovered": "7198",
+          "deaths": "125",
+          "active": "461"
+        },
+        {
+          "name": "Kodagu",
+          "cases": "6770",
+          "recovered": "6415",
+          "deaths": "73",
+          "active": "282"
+        },
+        {
+          "name": "Other State",
+          "cases": "36",
+          "recovered": "33",
+          "deaths": "3",
+          "active": "0"
+        }
+      ],
+      "cases": "1141998",
+      "recovered": "1009549",
+      "active": "119160",
+      "deaths": "13270"
+    },
+    {
+      "name": "Tamil Nadu",
+      "districts": [
+        {
+          "name": "Chennai",
+          "cases": "280184",
+          "recovered": "252173",
+          "deaths": "4383",
+          "active": "23628"
+        },
+        {
+          "name": "Coimbatore",
+          "cases": "66645",
+          "recovered": "61500",
+          "deaths": "707",
+          "active": "4438"
+        },
+        {
+          "name": "Chengalpattu",
+          "cases": "65424",
+          "recovered": "58302",
+          "deaths": "859",
+          "active": "6263"
+        },
+        {
+          "name": "Thiruvallur",
+          "cases": "50512",
+          "recovered": "47206",
+          "deaths": "731",
+          "active": "2575"
+        },
+        {
+          "name": "Salem",
+          "cases": "35639",
+          "recovered": "33708",
+          "deaths": "479",
+          "active": "1452"
+        },
+        {
+          "name": "Kancheepuram",
+          "cases": "33238",
+          "recovered": "31004",
+          "deaths": "476",
+          "active": "1758"
+        },
+        {
+          "name": "Cuddalore",
+          "cases": "27444",
+          "recovered": "25964",
+          "deaths": "300",
+          "active": "1180"
+        },
+        {
+          "name": "Madurai",
+          "cases": "24286",
+          "recovered": "21942",
+          "deaths": "476",
+          "active": "1868"
+        },
+        {
+          "name": "Vellore",
+          "cases": "22961",
+          "recovered": "21791",
+          "deaths": "361",
+          "active": "809"
+        },
+        {
+          "name": "Thanjavur",
+          "cases": "22092",
+          "recovered": "20794",
+          "deaths": "282",
+          "active": "1016"
+        },
+        {
+          "name": "Tiruppur",
+          "cases": "21922",
+          "recovered": "19825",
+          "deaths": "231",
+          "active": "1866"
+        },
+        {
+          "name": "Tiruvannamalai",
+          "cases": "20783",
+          "recovered": "19702",
+          "deaths": "288",
+          "active": "793"
+        },
+        {
+          "name": "Kanyakumari",
+          "cases": "18767",
+          "recovered": "17643",
+          "deaths": "270",
+          "active": "854"
+        },
+        {
+          "name": "Tiruchirappalli",
+          "cases": "18586",
+          "recovered": "16378",
+          "deaths": "195",
+          "active": "2013"
+        },
+        {
+          "name": "Thoothukkudi",
+          "cases": "18282",
+          "recovered": "16555",
+          "deaths": "144",
+          "active": "1583"
+        },
+        {
+          "name": "Tirunelveli",
+          "cases": "18068",
+          "recovered": "16440",
+          "deaths": "221",
+          "active": "1407"
+        },
+        {
+          "name": "Theni",
+          "cases": "17857",
+          "recovered": "17236",
+          "deaths": "208",
+          "active": "413"
+        },
+        {
+          "name": "Ranipet",
+          "cases": "17642",
+          "recovered": "16529",
+          "deaths": "190",
+          "active": "923"
+        },
+        {
+          "name": "Virudhunagar",
+          "cases": "17615",
+          "recovered": "16880",
+          "deaths": "235",
+          "active": "500"
+        },
+        {
+          "name": "Erode",
+          "cases": "16715",
+          "recovered": "15608",
+          "deaths": "152",
+          "active": "955"
+        },
+        {
+          "name": "Viluppuram",
+          "cases": "16335",
+          "recovered": "15700",
+          "deaths": "114",
+          "active": "521"
+        },
+        {
+          "name": "Thiruvarur",
+          "cases": "13479",
+          "recovered": "12515",
+          "deaths": "117",
+          "active": "847"
+        },
+        {
+          "name": "Namakkal",
+          "cases": "13067",
+          "recovered": "12288",
+          "deaths": "111",
+          "active": "668"
+        },
+        {
+          "name": "Dindigul",
+          "cases": "13052",
+          "recovered": "12025",
+          "deaths": "203",
+          "active": "824"
+        },
+        {
+          "name": "Pudukkottai",
+          "cases": "12471",
+          "recovered": "11870",
+          "deaths": "160",
+          "active": "441"
+        },
+        {
+          "name": "Kallakurichi",
+          "cases": "11369",
+          "recovered": "10929",
+          "deaths": "108",
+          "active": "332"
+        },
+        {
+          "name": "Nagapattinam",
+          "cases": "10925",
+          "recovered": "9604",
+          "deaths": "156",
+          "active": "1165"
+        },
+        {
+          "name": "Krishnagiri",
+          "cases": "10014",
+          "recovered": "8725",
+          "deaths": "120",
+          "active": "1169"
+        },
+        {
+          "name": "Tenkasi",
+          "cases": "9509",
+          "recovered": "8779",
+          "deaths": "163",
+          "active": "567"
+        },
+        {
+          "name": "Nilgiris",
+          "cases": "9160",
+          "recovered": "8801",
+          "deaths": "51",
+          "active": "308"
+        },
+        {
+          "name": "Tirupathur",
+          "cases": "8396",
+          "recovered": "7831",
+          "deaths": "128",
+          "active": "437"
+        },
+        {
+          "name": "Sivaganga",
+          "cases": "7633",
+          "recovered": "7069",
+          "deaths": "129",
+          "active": "435"
+        },
+        {
+          "name": "Dharmapuri",
+          "cases": "7554",
+          "recovered": "6846",
+          "deaths": "57",
+          "active": "651"
+        },
+        {
+          "name": "Ramanathapuram",
+          "cases": "6981",
+          "recovered": "6533",
+          "deaths": "138",
+          "active": "310"
+        },
+        {
+          "name": "Karur",
+          "cases": "6166",
+          "recovered": "5713",
+          "deaths": "52",
+          "active": "401"
+        },
+        {
+          "name": "Ariyalur",
+          "cases": "5070",
+          "recovered": "4840",
+          "deaths": "49",
+          "active": "181"
+        },
+        {
+          "name": "Perambalur",
+          "cases": "2395",
+          "recovered": "2314",
+          "deaths": "22",
+          "active": "59"
+        },
+        {
+          "name": "Airport Quarantine",
+          "cases": "2062",
+          "recovered": "2032",
+          "deaths": "2",
+          "active": "28"
+        },
+        {
+          "name": "Railway Quarantine",
+          "cases": "428",
+          "recovered": "428",
+          "deaths": "0",
+          "active": "0"
+        },
+        {
+          "name": "Other State",
+          "cases": "0",
+          "recovered": "0",
+          "deaths": "3",
+          "active": "-3"
+        }
+      ],
+      "cases": "980728",
+      "recovered": "902022",
+      "active": "65635",
+      "deaths": "13071"
+    },
+    {
+      "name": "Andhra Pradesh",
+      "districts": [
+        {
+          "name": "East Godavari",
+          "cases": "129212",
+          "recovered": "124453",
+          "deaths": "638",
+          "active": "4121"
+        },
+        {
+          "name": "Chittoor",
+          "cases": "99083",
+          "recovered": "91015",
+          "deaths": "913",
+          "active": "7155"
+        },
+        {
+          "name": "West Godavari",
+          "cases": "95057",
+          "recovered": "93998",
+          "deaths": "542",
+          "active": "517"
+        },
+        {
+          "name": "Guntur",
+          "cases": "85766",
+          "recovered": "80775",
+          "deaths": "690",
+          "active": "4301"
+        },
+        {
+          "name": "Anantapur",
+          "cases": "71148",
+          "recovered": "68583",
+          "deaths": "615",
+          "active": "1950"
+        },
+        {
+          "name": "Visakhapatnam",
+          "cases": "67384",
+          "recovered": "62984",
+          "deaths": "596",
+          "active": "3804"
+        },
+        {
+          "name": "S.P.S.R. Nellore",
+          "cases": "67003",
+          "recovered": "63875",
+          "deaths": "534",
+          "active": "2594"
+        },
+        {
+          "name": "Prakasam",
+          "cases": "65671",
+          "recovered": "62259",
+          "deaths": "592",
+          "active": "2820"
+        },
+        {
+          "name": "Kurnool",
+          "cases": "65396",
+          "recovered": "61997",
+          "deaths": "509",
+          "active": "2890"
+        },
+        {
+          "name": "Y.S.R. Kadapa",
+          "cases": "58110",
+          "recovered": "56205",
+          "deaths": "469",
+          "active": "1436"
+        },
+        {
+          "name": "Krishna",
+          "cases": "54666",
+          "recovered": "50091",
+          "deaths": "700",
+          "active": "3875"
+        },
+        {
+          "name": "Srikakulam",
+          "cases": "50876",
+          "recovered": "46864",
+          "deaths": "351",
+          "active": "3661"
+        },
+        {
+          "name": "Vizianagaram",
+          "cases": "43188",
+          "recovered": "41604",
+          "deaths": "239",
+          "active": "1345"
+        },
+        {
+          "name": "Other State",
+          "cases": "2461",
+          "recovered": "2461",
+          "deaths": "0",
+          "active": "0"
+        },
+        {
+          "name": "Foreign Evacuees",
+          "cases": "434",
+          "recovered": "434",
+          "deaths": "0",
+          "active": "0"
+        }
+      ],
+      "cases": "955455",
+      "recovered": "907598",
+      "active": "40469",
+      "deaths": "7388"
+    },
+    {
+      "name": "Delhi",
+      "districts": [
+        {
+          "name": "Unknown",
+          "cases": "827210",
+          "recovered": "746239",
+          "deaths": "11959",
+          "active": "69012"
+        },
+        {
+          "name": "Central Delhi",
+          "cases": "184",
+          "recovered": "0",
+          "deaths": "0",
+          "active": "184"
+        },
+        {
+          "name": "South East Delhi",
+          "cases": "130",
+          "recovered": "0",
+          "deaths": "0",
+          "active": "130"
+        },
+        {
+          "name": "West Delhi",
+          "cases": "122",
+          "recovered": "0",
+          "deaths": "0",
+          "active": "122"
+        },
+        {
+          "name": "South Delhi",
+          "cases": "70",
+          "recovered": "0",
+          "deaths": "0",
+          "active": "70"
+        },
+        {
+          "name": "North Delhi",
+          "cases": "60",
+          "recovered": "0",
+          "deaths": "0",
+          "active": "60"
+        },
+        {
+          "name": "Shahdara",
+          "cases": "48",
+          "recovered": "0",
+          "deaths": "0",
+          "active": "48"
+        },
+        {
+          "name": "South West Delhi",
+          "cases": "42",
+          "recovered": "0",
+          "deaths": "0",
+          "active": "42"
+        },
+        {
+          "name": "East Delhi",
+          "cases": "38",
+          "recovered": "0",
+          "deaths": "0",
+          "active": "38"
+        },
+        {
+          "name": "New Delhi",
+          "cases": "37",
+          "recovered": "0",
+          "deaths": "0",
+          "active": "37"
+        },
+        {
+          "name": "North West Delhi",
+          "cases": "32",
+          "recovered": "0",
+          "deaths": "1",
+          "active": "31"
+        },
+        {
+          "name": "North East Delhi",
+          "cases": "25",
+          "recovered": "0",
+          "deaths": "0",
+          "active": "25"
+        }
+      ],
+      "cases": "827998",
+      "recovered": "746239",
+      "active": "69799",
+      "deaths": "11960"
+    },
+    {
+      "name": "Uttar Pradesh",
+      "districts": [
+        {
+          "name": "Lucknow",
+          "cases": "139837",
+          "recovered": "93871",
+          "deaths": "1481",
+          "active": "44485"
+        },
+        {
+          "name": "Prayagraj",
+          "cases": "48887",
+          "recovered": "33166",
+          "deaths": "492",
+          "active": "15229"
+        },
+        {
+          "name": "Kanpur Nagar",
+          "cases": "45240",
+          "recovered": "34289",
+          "deaths": "934",
+          "active": "10017"
+        },
+        {
+          "name": "Varanasi",
+          "cases": "41785",
+          "recovered": "27200",
+          "deaths": "505",
+          "active": "14080"
+        },
+        {
+          "name": "Ghaziabad",
+          "cases": "30213",
+          "recovered": "27660",
+          "deaths": "104",
+          "active": "2449"
+        },
+        {
+          "name": "Gautam Buddha Nagar",
+          "cases": "29836",
+          "recovered": "26953",
+          "deaths": "100",
+          "active": "2783"
+        },
+        {
+          "name": "Gorakhpur",
+          "cases": "27845",
+          "recovered": "22266",
+          "deaths": "380",
+          "active": "5199"
+        },
+        {
+          "name": "Meerut",
+          "cases": "27330",
+          "recovered": "23130",
+          "deaths": "455",
+          "active": "3745"
+        },
+        {
+          "name": "Bareilly",
+          "cases": "18292",
+          "recovered": "15313",
+          "deaths": "169",
+          "active": "2810"
+        },
+        {
+          "name": "Jhansi",
+          "cases": "15415",
+          "recovered": "11313",
+          "deaths": "183",
+          "active": "3919"
+        },
+        {
+          "name": "Moradabad",
+          "cases": "14788",
+          "recovered": "12265",
+          "deaths": "201",
+          "active": "2322"
+        },
+        {
+          "name": "Agra",
+          "cases": "13146",
+          "recovered": "10976",
+          "deaths": "185",
+          "active": "1985"
+        },
+        {
+          "name": "Aligarh",
+          "cases": "12273",
+          "recovered": "11670",
+          "deaths": "58",
+          "active": "545"
+        },
+        {
+          "name": "Saharanpur",
+          "cases": "12017",
+          "recovered": "10560",
+          "deaths": "139",
+          "active": "1318"
+        },
+        {
+          "name": "Muzaffarnagar",
+          "cases": "11510",
+          "recovered": "9441",
+          "deaths": "133",
+          "active": "1936"
+        },
+        {
+          "name": "Ballia",
+          "cases": "11210",
+          "recovered": "8068",
+          "deaths": "124",
+          "active": "3018"
+        },
+        {
+          "name": "Barabanki",
+          "cases": "10383",
+          "recovered": "8218",
+          "deaths": "116",
+          "active": "2049"
+        },
+        {
+          "name": "Lakhimpur Kheri",
+          "cases": "9708",
+          "recovered": "7797",
+          "deaths": "107",
+          "active": "1804"
+        },
+        {
+          "name": "Ayodhya",
+          "cases": "9642",
+          "recovered": "8255",
+          "deaths": "138",
+          "active": "1249"
+        },
+        {
+          "name": "Jaunpur",
+          "cases": "9535",
+          "recovered": "7116",
+          "deaths": "110",
+          "active": "2309"
+        },
+        {
+          "name": "Mathura",
+          "cases": "8727",
+          "recovered": "7400",
+          "deaths": "126",
+          "active": "1201"
+        },
+        {
+          "name": "Deoria",
+          "cases": "8425",
+          "recovered": "6814",
+          "deaths": "103",
+          "active": "1508"
+        },
+        {
+          "name": "Rae Bareli",
+          "cases": "8292",
+          "recovered": "6034",
+          "deaths": "133",
+          "active": "2125"
+        },
+        {
+          "name": "Azamgarh",
+          "cases": "8097",
+          "recovered": "6456",
+          "deaths": "95",
+          "active": "1546"
+        },
+        {
+          "name": "Shahjahanpur",
+          "cases": "7913",
+          "recovered": "7105",
+          "deaths": "130",
+          "active": "678"
+        },
+        {
+          "name": "Bulandshahr",
+          "cases": "7631",
+          "recovered": "6488",
+          "deaths": "96",
+          "active": "1047"
+        },
+        {
+          "name": "Hardoi",
+          "cases": "7232",
+          "recovered": "6050",
+          "deaths": "122",
+          "active": "1060"
+        },
+        {
+          "name": "Sonbhadra",
+          "cases": "7230",
+          "recovered": "5213",
+          "deaths": "83",
+          "active": "1934"
+        },
+        {
+          "name": "Ghazipur",
+          "cases": "7200",
+          "recovered": "5566",
+          "deaths": "104",
+          "active": "1530"
+        },
+        {
+          "name": "Etawah",
+          "cases": "7071",
+          "recovered": "5886",
+          "deaths": "116",
+          "active": "1069"
+        },
+        {
+          "name": "Pratapgarh",
+          "cases": "7026",
+          "recovered": "5636",
+          "deaths": "81",
+          "active": "1309"
+        },
+        {
+          "name": "Chandauli",
+          "cases": "6996",
+          "recovered": "5199",
+          "deaths": "77",
+          "active": "1720"
+        },
+        {
+          "name": "Sultanpur",
+          "cases": "6897",
+          "recovered": "5247",
+          "deaths": "84",
+          "active": "1566"
+        },
+        {
+          "name": "Kushinagar",
+          "cases": "6578",
+          "recovered": "5779",
+          "deaths": "65",
+          "active": "734"
+        },
+        {
+          "name": "Gonda",
+          "cases": "6529",
+          "recovered": "5294",
+          "deaths": "79",
+          "active": "1156"
+        },
+        {
+          "name": "Maharajganj",
+          "cases": "6441",
+          "recovered": "5937",
+          "deaths": "93",
+          "active": "411"
+        },
+        {
+          "name": "Rampur",
+          "cases": "6358",
+          "recovered": "5763",
+          "deaths": "64",
+          "active": "531"
+        },
+        {
+          "name": "Basti",
+          "cases": "6340",
+          "recovered": "5452",
+          "deaths": "103",
+          "active": "785"
+        },
+        {
+          "name": "Sitapur",
+          "cases": "6205",
+          "recovered": "4971",
+          "deaths": "88",
+          "active": "1146"
+        },
+        {
+          "name": "Unnao",
+          "cases": "5853",
+          "recovered": "4797",
+          "deaths": "98",
+          "active": "958"
+        },
+        {
+          "name": "Farrukhabad",
+          "cases": "5642",
+          "recovered": "4762",
+          "deaths": "100",
+          "active": "780"
+        },
+        {
+          "name": "Bijnor",
+          "cases": "5494",
+          "recovered": "4602",
+          "deaths": "67",
+          "active": "825"
+        },
+        {
+          "name": "Lalitpur",
+          "cases": "5464",
+          "recovered": "3896",
+          "deaths": "51",
+          "active": "1517"
+        },
+        {
+          "name": "Banda",
+          "cases": "5401",
+          "recovered": "4099",
+          "deaths": "51",
+          "active": "1251"
+        },
+        {
+          "name": "Mirzapur",
+          "cases": "5356",
+          "recovered": "3651",
+          "deaths": "46",
+          "active": "1659"
+        },
+        {
+          "name": "Bahraich",
+          "cases": "5335",
+          "recovered": "4250",
+          "deaths": "79",
+          "active": "1006"
+        },
+        {
+          "name": "Amroha",
+          "cases": "5325",
+          "recovered": "4486",
+          "deaths": "57",
+          "active": "782"
+        },
+        {
+          "name": "Hapur",
+          "cases": "5159",
+          "recovered": "4542",
+          "deaths": "68",
+          "active": "549"
+        },
+        {
+          "name": "Budaun",
+          "cases": "5077",
+          "recovered": "4277",
+          "deaths": "45",
+          "active": "755"
+        },
+        {
+          "name": "Jalaun",
+          "cases": "4901",
+          "recovered": "4194",
+          "deaths": "54",
+          "active": "653"
+        },
+        {
+          "name": "Firozabad",
+          "cases": "4894",
+          "recovered": "4287",
+          "deaths": "72",
+          "active": "535"
+        },
+        {
+          "name": "Auraiya",
+          "cases": "4802",
+          "recovered": "3706",
+          "deaths": "51",
+          "active": "1045"
+        },
+        {
+          "name": "Siddharthnagar",
+          "cases": "4748",
+          "recovered": "4163",
+          "deaths": "54",
+          "active": "531"
+        },
+        {
+          "name": "Pilibhit",
+          "cases": "4471",
+          "recovered": "4173",
+          "deaths": "89",
+          "active": "209"
+        },
+        {
+          "name": "Fatehpur",
+          "cases": "4416",
+          "recovered": "3886",
+          "deaths": "72",
+          "active": "458"
+        },
+        {
+          "name": "Mainpuri",
+          "cases": "4405",
+          "recovered": "3819",
+          "deaths": "80",
+          "active": "506"
+        },
+        {
+          "name": "Amethi",
+          "cases": "4387",
+          "recovered": "3822",
+          "deaths": "50",
+          "active": "515"
+        },
+        {
+          "name": "Shamli",
+          "cases": "4346",
+          "recovered": "3864",
+          "deaths": "32",
+          "active": "450"
+        },
+        {
+          "name": "Kannauj",
+          "cases": "4304",
+          "recovered": "3568",
+          "deaths": "55",
+          "active": "681"
+        },
+        {
+          "name": "Sant Kabir Nagar",
+          "cases": "4106",
+          "recovered": "3621",
+          "deaths": "46",
+          "active": "439"
+        },
+        {
+          "name": "Mau",
+          "cases": "4104",
+          "recovered": "3191",
+          "deaths": "39",
+          "active": "874"
+        },
+        {
+          "name": "Sambhal",
+          "cases": "3894",
+          "recovered": "3309",
+          "deaths": "52",
+          "active": "533"
+        },
+        {
+          "name": "Bhadohi",
+          "cases": "3547",
+          "recovered": "2409",
+          "deaths": "31",
+          "active": "1107"
+        },
+        {
+          "name": "Etah",
+          "cases": "3384",
+          "recovered": "2591",
+          "deaths": "30",
+          "active": "763"
+        },
+        {
+          "name": "Chitrakoot",
+          "cases": "3255",
+          "recovered": "2348",
+          "deaths": "17",
+          "active": "890"
+        },
+        {
+          "name": "Balrampur",
+          "cases": "3128",
+          "recovered": "2451",
+          "deaths": "40",
+          "active": "637"
+        },
+        {
+          "name": "Kaushambi",
+          "cases": "2847",
+          "recovered": "2298",
+          "deaths": "28",
+          "active": "521"
+        },
+        {
+          "name": "Baghpat",
+          "cases": "2719",
+          "recovered": "2407",
+          "deaths": "37",
+          "active": "275"
+        },
+        {
+          "name": "Kanpur Dehat",
+          "cases": "2706",
+          "recovered": "2167",
+          "deaths": "44",
+          "active": "495"
+        },
+        {
+          "name": "Ambedkar Nagar",
+          "cases": "2497",
+          "recovered": "1932",
+          "deaths": "46",
+          "active": "519"
+        },
+        {
+          "name": "Kasganj",
+          "cases": "2116",
+          "recovered": "2011",
+          "deaths": "6",
+          "active": "99"
+        },
+        {
+          "name": "Hamirpur",
+          "cases": "1949",
+          "recovered": "1615",
+          "deaths": "21",
+          "active": "313"
+        },
+        {
+          "name": "Mahoba",
+          "cases": "1813",
+          "recovered": "1537",
+          "deaths": "13",
+          "active": "263"
+        },
+        {
+          "name": "Shrawasti",
+          "cases": "1736",
+          "recovered": "1419",
+          "deaths": "18",
+          "active": "299"
+        },
+        {
+          "name": "Hathras",
+          "cases": "1393",
+          "recovered": "1325",
+          "deaths": "8",
+          "active": "60"
+        }
+      ],
+      "cases": "821054",
+      "recovered": "641292",
+      "active": "170059",
+      "deaths": "9703"
+    },
+    {
+      "name": "West Bengal",
+      "districts": [
+        {
+          "name": "Kolkata",
+          "cases": "150800",
+          "recovered": "134957",
+          "deaths": "3201",
+          "active": "12642"
+        },
+        {
+          "name": "North 24 Parganas",
+          "cases": "140572",
+          "recovered": "128046",
+          "deaths": "2588",
+          "active": "9938"
+        },
+        {
+          "name": "South 24 Parganas",
+          "cases": "41890",
+          "recovered": "38393",
+          "deaths": "727",
+          "active": "2770"
+        },
+        {
+          "name": "Howrah",
+          "cases": "41141",
+          "recovered": "37317",
+          "deaths": "1067",
+          "active": "2757"
+        },
+        {
+          "name": "Hooghly",
+          "cases": "33159",
+          "recovered": "30846",
+          "deaths": "503",
+          "active": "1810"
+        },
+        {
+          "name": "Nadia",
+          "cases": "24634",
+          "recovered": "23055",
+          "deaths": "324",
+          "active": "1255"
+        },
+        {
+          "name": "Purba Medinipur",
+          "cases": "21916",
+          "recovered": "20909",
+          "deaths": "281",
+          "active": "726"
+        },
+        {
+          "name": "Paschim Medinipur",
+          "cases": "20992",
+          "recovered": "20261",
+          "deaths": "313",
+          "active": "418"
+        },
+        {
+          "name": "Paschim Bardhaman",
+          "cases": "20091",
+          "recovered": "17577",
+          "deaths": "179",
+          "active": "2335"
+        },
+        {
+          "name": "Darjeeling",
+          "cases": "19818",
+          "recovered": "18818",
+          "deaths": "204",
+          "active": "796"
+        },
+        {
+          "name": "Jalpaiguri",
+          "cases": "15540",
+          "recovered": "14878",
+          "deaths": "166",
+          "active": "496"
+        },
+        {
+          "name": "Malda",
+          "cases": "15121",
+          "recovered": "13294",
+          "deaths": "120",
+          "active": "1707"
+        },
+        {
+          "name": "Murshidabad",
+          "cases": "14464",
+          "recovered": "12812",
+          "deaths": "161",
+          "active": "1491"
+        },
+        {
+          "name": "Purba Bardhaman",
+          "cases": "14196",
+          "recovered": "13051",
+          "deaths": "106",
+          "active": "1039"
+        },
+        {
+          "name": "Birbhum",
+          "cases": "14074",
+          "recovered": "11385",
+          "deaths": "94",
+          "active": "2595"
+        },
+        {
+          "name": "Bankura",
+          "cases": "12753",
+          "recovered": "12251",
+          "deaths": "92",
+          "active": "410"
+        },
+        {
+          "name": "Cooch Behar",
+          "cases": "12135",
+          "recovered": "11887",
+          "deaths": "72",
+          "active": "176"
+        },
+        {
+          "name": "Purulia",
+          "cases": "8740",
+          "recovered": "7691",
+          "deaths": "52",
+          "active": "997"
+        },
+        {
+          "name": "Dakshin Dinajpur",
+          "cases": "8528",
+          "recovered": "8238",
+          "deaths": "74",
+          "active": "216"
+        },
+        {
+          "name": "Alipurduar",
+          "cases": "7865",
+          "recovered": "7690",
+          "deaths": "86",
+          "active": "89"
+        },
+        {
+          "name": "Uttar Dinajpur",
+          "cases": "7548",
+          "recovered": "6941",
+          "deaths": "78",
+          "active": "529"
+        },
+        {
+          "name": "Jhargram",
+          "cases": "3132",
+          "recovered": "3070",
+          "deaths": "22",
+          "active": "40"
+        },
+        {
+          "name": "Kalimpong",
+          "cases": "2333",
+          "recovered": "2238",
+          "deaths": "27",
+          "active": "68"
+        },
+        {
+          "name": "Other State",
+          "cases": "66",
+          "recovered": "63",
+          "deaths": "3",
+          "active": "0"
+        }
+      ],
+      "cases": "651508",
+      "recovered": "595668",
+      "active": "45300",
+      "deaths": "10540"
+    },
+    {
+      "name": "Chhattisgarh",
+      "districts": [
+        {
+          "name": "Raipur",
+          "cases": "113735",
+          "recovered": "85656",
+          "deaths": "1565",
+          "active": "26514"
+        },
+        {
+          "name": "Durg",
+          "cases": "66048",
+          "recovered": "46818",
+          "deaths": "1093",
+          "active": "18137"
+        },
+        {
+          "name": "Rajnandgaon",
+          "cases": "37397",
+          "recovered": "25435",
+          "deaths": "262",
+          "active": "11700"
+        },
+        {
+          "name": "Bilaspur",
+          "cases": "35831",
+          "recovered": "25949",
+          "deaths": "294",
+          "active": "9588"
+        },
+        {
+          "name": "Raigarh",
+          "cases": "30046",
+          "recovered": "25256",
+          "deaths": "363",
+          "active": "4427"
+        },
+        {
+          "name": "Janjgir Champa",
+          "cases": "26785",
+          "recovered": "21586",
+          "deaths": "291",
+          "active": "4908"
+        },
+        {
+          "name": "Korba",
+          "cases": "25863",
+          "recovered": "19549",
+          "deaths": "154",
+          "active": "6160"
+        },
+        {
+          "name": "Baloda Bazar",
+          "cases": "18803",
+          "recovered": "11519",
+          "deaths": "192",
+          "active": "7092"
+        },
+        {
+          "name": "Mahasamund",
+          "cases": "16608",
+          "recovered": "11298",
+          "deaths": "199",
+          "active": "5111"
+        },
+        {
+          "name": "Balod",
+          "cases": "14393",
+          "recovered": "11574",
+          "deaths": "134",
+          "active": "2685"
+        },
+        {
+          "name": "Dhamtari",
+          "cases": "13786",
+          "recovered": "9874",
+          "deaths": "206",
+          "active": "3706"
+        },
+        {
+          "name": "Surguja",
+          "cases": "13061",
+          "recovered": "10619",
+          "deaths": "121",
+          "active": "2321"
+        },
+        {
+          "name": "Bametara",
+          "cases": "11650",
+          "recovered": "6900",
+          "deaths": "85",
+          "active": "4665"
+        },
+        {
+          "name": "Bastar",
+          "cases": "11400",
+          "recovered": "10292",
+          "deaths": "97",
+          "active": "1011"
+        },
+        {
+          "name": "Kabeerdham",
+          "cases": "11266",
+          "recovered": "6674",
+          "deaths": "93",
+          "active": "4499"
+        },
+        {
+          "name": "Surajpur",
+          "cases": "10233",
+          "recovered": "8048",
+          "deaths": "61",
+          "active": "2124"
+        },
+        {
+          "name": "Uttar Bastar Kanker",
+          "cases": "9458",
+          "recovered": "7787",
+          "deaths": "84",
+          "active": "1587"
+        },
+        {
+          "name": "Gariaband",
+          "cases": "9413",
+          "recovered": "5532",
+          "deaths": "87",
+          "active": "3794"
+        },
+        {
+          "name": "Koriya",
+          "cases": "8451",
+          "recovered": "6588",
+          "deaths": "46",
+          "active": "1817"
+        },
+        {
+          "name": "Jashpur",
+          "cases": "8434",
+          "recovered": "6150",
+          "deaths": "57",
+          "active": "2227"
+        },
+        {
+          "name": "Mungeli",
+          "cases": "7366",
+          "recovered": "4738",
+          "deaths": "36",
+          "active": "2592"
+        },
+        {
+          "name": "Dakshin Bastar Dantewada",
+          "cases": "6759",
+          "recovered": "6296",
+          "deaths": "18",
+          "active": "445"
+        },
+        {
+          "name": "Kondagaon",
+          "cases": "6102",
+          "recovered": "5578",
+          "deaths": "44",
+          "active": "480"
+        },
+        {
+          "name": "Balrampur",
+          "cases": "5301",
+          "recovered": "4235",
+          "deaths": "26",
+          "active": "1040"
+        },
+        {
+          "name": "Bijapur",
+          "cases": "4304",
+          "recovered": "4167",
+          "deaths": "28",
+          "active": "109"
+        },
+        {
+          "name": "Sukma",
+          "cases": "4206",
+          "recovered": "4063",
+          "deaths": "10",
+          "active": "133"
+        },
+        {
+          "name": "Gaurela Pendra Marwahi",
+          "cases": "3088",
+          "recovered": "1722",
+          "deaths": "10",
+          "active": "1356"
+        },
+        {
+          "name": "Narayanpur",
+          "cases": "2156",
+          "recovered": "2035",
+          "deaths": "2",
+          "active": "119"
+        },
+        {
+          "name": "Other State",
+          "cases": "552",
+          "recovered": "419",
+          "deaths": "80",
+          "active": "53"
+        }
+      ],
+      "cases": "532495",
+      "recovered": "396357",
+      "active": "130400",
+      "deaths": "5738"
+    },
+    {
+      "name": "Rajasthan",
+      "districts": [
+        {
+          "name": "Jaipur",
+          "cases": "73776",
+          "recovered": "61895",
+          "deaths": "552",
+          "active": "11329"
+        },
+        {
+          "name": "Jodhpur",
+          "cases": "55710",
+          "recovered": "48068",
+          "deaths": "358",
+          "active": "7284"
+        },
+        {
+          "name": "Kota",
+          "cases": "29178",
+          "recovered": "23970",
+          "deaths": "193",
+          "active": "5015"
+        },
+        {
+          "name": "Alwar",
+          "cases": "25194",
+          "recovered": "22472",
+          "deaths": "84",
+          "active": "2638"
+        },
+        {
+          "name": "Udaipur",
+          "cases": "21681",
+          "recovered": "14213",
+          "deaths": "171",
+          "active": "7297"
+        },
+        {
+          "name": "Bikaner",
+          "cases": "20984",
+          "recovered": "19202",
+          "deaths": "177",
+          "active": "1605"
+        },
+        {
+          "name": "Ajmer",
+          "cases": "20612",
+          "recovered": "18199",
+          "deaths": "241",
+          "active": "2172"
+        },
+        {
+          "name": "Bhilwara",
+          "cases": "14336",
+          "recovered": "11020",
+          "deaths": "43",
+          "active": "3273"
+        },
+        {
+          "name": "Pali",
+          "cases": "12402",
+          "recovered": "11455",
+          "deaths": "118",
+          "active": "829"
+        },
+        {
+          "name": "Nagaur",
+          "cases": "11344",
+          "recovered": "10687",
+          "deaths": "106",
+          "active": "551"
+        },
+        {
+          "name": "Sikar",
+          "cases": "10280",
+          "recovered": "9164",
+          "deaths": "110",
+          "active": "1006"
+        },
+        {
+          "name": "Bharatpur",
+          "cases": "9860",
+          "recovered": "9281",
+          "deaths": "120",
+          "active": "459"
+        },
+        {
+          "name": "Dungarpur",
+          "cases": "9030",
+          "recovered": "7079",
+          "deaths": "41",
+          "active": "1910"
+        },
+        {
+          "name": "Ganganagar",
+          "cases": "7521",
+          "recovered": "6951",
+          "deaths": "43",
+          "active": "527"
+        },
+        {
+          "name": "Rajsamand",
+          "cases": "6888",
+          "recovered": "5008",
+          "deaths": "60",
+          "active": "1820"
+        },
+        {
+          "name": "Jalore",
+          "cases": "6352",
+          "recovered": "5672",
+          "deaths": "58",
+          "active": "622"
+        },
+        {
+          "name": "Chittorgarh",
+          "cases": "6252",
+          "recovered": "4886",
+          "deaths": "50",
+          "active": "1316"
+        },
+        {
+          "name": "Sirohi",
+          "cases": "5619",
+          "recovered": "3794",
+          "deaths": "32",
+          "active": "1793"
+        },
+        {
+          "name": "Barmer",
+          "cases": "5507",
+          "recovered": "5107",
+          "deaths": "58",
+          "active": "342"
+        },
+        {
+          "name": "Jhunjhunu",
+          "cases": "4970",
+          "recovered": "4618",
+          "deaths": "57",
+          "active": "295"
+        },
+        {
+          "name": "Jhalawar",
+          "cases": "4842",
+          "recovered": "4266",
+          "deaths": "35",
+          "active": "541"
+        },
+        {
+          "name": "Churu",
+          "cases": "4776",
+          "recovered": "4398",
+          "deaths": "45",
+          "active": "333"
+        },
+        {
+          "name": "Dholpur",
+          "cases": "4762",
+          "recovered": "3850",
+          "deaths": "30",
+          "active": "882"
+        },
+        {
+          "name": "Tonk",
+          "cases": "4193",
+          "recovered": "3514",
+          "deaths": "38",
+          "active": "641"
+        },
+        {
+          "name": "Baran",
+          "cases": "4025",
+          "recovered": "2850",
+          "deaths": "38",
+          "active": "1137"
+        },
+        {
+          "name": "Hanumangarh",
+          "cases": "3957",
+          "recovered": "3246",
+          "deaths": "14",
+          "active": "697"
+        },
+        {
+          "name": "Bundi",
+          "cases": "3649",
+          "recovered": "3109",
+          "deaths": "22",
+          "active": "518"
+        },
+        {
+          "name": "Banswara",
+          "cases": "3549",
+          "recovered": "2969",
+          "deaths": "44",
+          "active": "536"
+        },
+        {
+          "name": "Sawai Madhopur",
+          "cases": "3223",
+          "recovered": "2114",
+          "deaths": "29",
+          "active": "1080"
+        },
+        {
+          "name": "Dausa",
+          "cases": "2938",
+          "recovered": "2520",
+          "deaths": "28",
+          "active": "390"
+        },
+        {
+          "name": "Jaisalmer",
+          "cases": "2492",
+          "recovered": "2244",
+          "deaths": "25",
+          "active": "223"
+        },
+        {
+          "name": "Karauli",
+          "cases": "2083",
+          "recovered": "1622",
+          "deaths": "25",
+          "active": "436"
+        },
+        {
+          "name": "Pratapgarh",
+          "cases": "2033",
+          "recovered": "1506",
+          "deaths": "25",
+          "active": "502"
+        },
+        {
+          "name": "Other State",
+          "cases": "189",
+          "recovered": "150",
+          "deaths": "39",
+          "active": "0"
+        },
+        {
+          "name": "BSF Camp",
+          "cases": "85",
+          "recovered": "85",
+          "deaths": "0",
+          "active": "0"
+        },
+        {
+          "name": "Evacuees",
+          "cases": "61",
+          "recovered": "61",
+          "deaths": "0",
+          "active": "0"
+        },
+        {
+          "name": "Italians",
+          "cases": "2",
+          "recovered": "2",
+          "deaths": "0",
+          "active": "0"
+        }
+      ],
+      "cases": "404355",
+      "recovered": "341247",
+      "active": "59999",
+      "deaths": "3109"
+    },
+    {
+      "name": "Madhya Pradesh",
+      "districts": [
+        {
+          "name": "Indore",
+          "cases": "87625",
+          "recovered": "75980",
+          "deaths": "1040",
+          "active": "10605"
+        },
+        {
+          "name": "Bhopal",
+          "cases": "66891",
+          "recovered": "57681",
+          "deaths": "671",
+          "active": "8539"
+        },
+        {
+          "name": "Jabalpur",
+          "cases": "25744",
+          "recovered": "21217",
+          "deaths": "318",
+          "active": "4209"
+        },
+        {
+          "name": "Gwalior",
+          "cases": "23833",
+          "recovered": "18430",
+          "deaths": "273",
+          "active": "5130"
+        },
+        {
+          "name": "Ujjain",
+          "cases": "8960",
+          "recovered": "6523",
+          "deaths": "126",
+          "active": "2311"
+        },
+        {
+          "name": "Khargone",
+          "cases": "8074",
+          "recovered": "7075",
+          "deaths": "132",
+          "active": "867"
+        },
+        {
+          "name": "Sagar",
+          "cases": "8055",
+          "recovered": "6465",
+          "deaths": "164",
+          "active": "1426"
+        },
+        {
+          "name": "Ratlam",
+          "cases": "7853",
+          "recovered": "6694",
+          "deaths": "133",
+          "active": "1026"
+        },
+        {
+          "name": "Betul",
+          "cases": "6685",
+          "recovered": "5278",
+          "deaths": "99",
+          "active": "1308"
+        },
+        {
+          "name": "Rewa",
+          "cases": "6124",
+          "recovered": "4647",
+          "deaths": "38",
+          "active": "1439"
+        },
+        {
+          "name": "Dhar",
+          "cases": "5885",
+          "recovered": "5112",
+          "deaths": "77",
+          "active": "696"
+        },
+        {
+          "name": "Vidisha",
+          "cases": "5640",
+          "recovered": "4377",
+          "deaths": "84",
+          "active": "1179"
+        },
+        {
+          "name": "Narsinghpur",
+          "cases": "5422",
+          "recovered": "4553",
+          "deaths": "39",
+          "active": "830"
+        },
+        {
+          "name": "Barwani",
+          "cases": "5288",
+          "recovered": "4269",
+          "deaths": "37",
+          "active": "982"
+        },
+        {
+          "name": "Hoshangabad",
+          "cases": "5174",
+          "recovered": "4282",
+          "deaths": "64",
+          "active": "828"
+        },
+        {
+          "name": "Satna",
+          "cases": "5114",
+          "recovered": "4170",
+          "deaths": "48",
+          "active": "896"
+        },
+        {
+          "name": "Shivpuri",
+          "cases": "5002",
+          "recovered": "4151",
+          "deaths": "33",
+          "active": "818"
+        },
+        {
+          "name": "Chhindwara",
+          "cases": "4989",
+          "recovered": "4344",
+          "deaths": "77",
+          "active": "568"
+        },
+        {
+          "name": "Balaghat",
+          "cases": "4797",
+          "recovered": "3717",
+          "deaths": "24",
+          "active": "1056"
+        },
+        {
+          "name": "Shahdol",
+          "cases": "4528",
+          "recovered": "3477",
+          "deaths": "38",
+          "active": "1013"
+        },
+        {
+          "name": "Katni",
+          "cases": "4418",
+          "recovered": "3256",
+          "deaths": "27",
+          "active": "1135"
+        },
+        {
+          "name": "Jhabua",
+          "cases": "4414",
+          "recovered": "3579",
+          "deaths": "31",
+          "active": "804"
+        },
+        {
+          "name": "Neemuch",
+          "cases": "4260",
+          "recovered": "3590",
+          "deaths": "40",
+          "active": "630"
+        },
+        {
+          "name": "Sehore",
+          "cases": "4153",
+          "recovered": "3561",
+          "deaths": "49",
+          "active": "543"
+        },
+        {
+          "name": "Mandsaur",
+          "cases": "4091",
+          "recovered": "3488",
+          "deaths": "39",
+          "active": "564"
+        },
+        {
+          "name": "Raisen",
+          "cases": "4091",
+          "recovered": "2944",
+          "deaths": "51",
+          "active": "1096"
+        },
+        {
+          "name": "Rajgarh",
+          "cases": "4085",
+          "recovered": "2859",
+          "deaths": "81",
+          "active": "1145"
+        },
+        {
+          "name": "Dewas",
+          "cases": "3974",
+          "recovered": "3720",
+          "deaths": "35",
+          "active": "219"
+        },
+        {
+          "name": "Damoh",
+          "cases": "3827",
+          "recovered": "3145",
+          "deaths": "96",
+          "active": "586"
+        },
+        {
+          "name": "Shajapur",
+          "cases": "3803",
+          "recovered": "2555",
+          "deaths": "31",
+          "active": "1217"
+        },
+        {
+          "name": "Morena",
+          "cases": "3797",
+          "recovered": "3356",
+          "deaths": "29",
+          "active": "412"
+        },
+        {
+          "name": "Khandwa",
+          "cases": "3261",
+          "recovered": "3067",
+          "deaths": "71",
+          "active": "123"
+        },
+        {
+          "name": "Seoni",
+          "cases": "3175",
+          "recovered": "2310",
+          "deaths": "12",
+          "active": "853"
+        },
+        {
+          "name": "Chhatarpur",
+          "cases": "3119",
+          "recovered": "2598",
+          "deaths": "37",
+          "active": "484"
+        },
+        {
+          "name": "Anuppur",
+          "cases": "3108",
+          "recovered": "2640",
+          "deaths": "22",
+          "active": "446"
+        },
+        {
+          "name": "Singrauli",
+          "cases": "2922",
+          "recovered": "2159",
+          "deaths": "28",
+          "active": "735"
+        },
+        {
+          "name": "Sidhi",
+          "cases": "2792",
+          "recovered": "2271",
+          "deaths": "15",
+          "active": "506"
+        },
+        {
+          "name": "Guna",
+          "cases": "2739",
+          "recovered": "1992",
+          "deaths": "32",
+          "active": "715"
+        },
+        {
+          "name": "Datia",
+          "cases": "2638",
+          "recovered": "2151",
+          "deaths": "21",
+          "active": "466"
+        },
+        {
+          "name": "Harda",
+          "cases": "2619",
+          "recovered": "2418",
+          "deaths": "39",
+          "active": "162"
+        },
+        {
+          "name": "Umaria",
+          "cases": "2496",
+          "recovered": "1872",
+          "deaths": "25",
+          "active": "599"
+        },
+        {
+          "name": "Tikamgarh",
+          "cases": "2474",
+          "recovered": "1525",
+          "deaths": "27",
+          "active": "922"
+        },
+        {
+          "name": "Panna",
+          "cases": "2268",
+          "recovered": "1604",
+          "deaths": "7",
+          "active": "657"
+        },
+        {
+          "name": "Mandla",
+          "cases": "2037",
+          "recovered": "1558",
+          "deaths": "12",
+          "active": "467"
+        },
+        {
+          "name": "Alirajpur",
+          "cases": "2017",
+          "recovered": "1675",
+          "deaths": "19",
+          "active": "323"
+        },
+        {
+          "name": "Sheopur",
+          "cases": "1907",
+          "recovered": "1654",
+          "deaths": "17",
+          "active": "236"
+        },
+        {
+          "name": "Ashoknagar",
+          "cases": "1880",
+          "recovered": "1305",
+          "deaths": "17",
+          "active": "558"
+        },
+        {
+          "name": "Burhanpur",
+          "cases": "1807",
+          "recovered": "1546",
+          "deaths": "32",
+          "active": "229"
+        },
+        {
+          "name": "Bhind",
+          "cases": "1762",
+          "recovered": "1604",
+          "deaths": "10",
+          "active": "148"
+        },
+        {
+          "name": "Dindori",
+          "cases": "1717",
+          "recovered": "1355",
+          "deaths": "4",
+          "active": "358"
+        },
+        {
+          "name": "Agar Malwa",
+          "cases": "1435",
+          "recovered": "847",
+          "deaths": "16",
+          "active": "572"
+        },
+        {
+          "name": "Niwari",
+          "cases": "1063",
+          "recovered": "806",
+          "deaths": "4",
+          "active": "253"
+        },
+        {
+          "name": "Other Region",
+          "cases": "0",
+          "recovered": "0",
+          "deaths": "0",
+          "active": "0"
+        }
+      ],
+      "cases": "395832",
+      "recovered": "327452",
+      "active": "63889",
+      "deaths": "4491"
+    },
+    {
+      "name": "Gujarat",
+      "districts": [
+        {
+          "name": "Ahmedabad",
+          "cases": "98513",
+          "recovered": "77828",
+          "deaths": "2593",
+          "active": "18092"
+        },
+        {
+          "name": "Surat",
+          "cases": "85446",
+          "recovered": "72810",
+          "deaths": "1269",
+          "active": "11367"
+        },
+        {
+          "name": "Vadodara",
+          "cases": "41652",
+          "recovered": "36658",
+          "deaths": "317",
+          "active": "4677"
+        },
+        {
+          "name": "Rajkot",
+          "cases": "34962",
+          "recovered": "30073",
+          "deaths": "289",
+          "active": "4600"
+        },
+        {
+          "name": "Jamnagar",
+          "cases": "14985",
+          "recovered": "13156",
+          "deaths": "47",
+          "active": "1782"
+        },
+        {
+          "name": "Gandhinagar",
+          "cases": "11137",
+          "recovered": "10173",
+          "deaths": "119",
+          "active": "845"
+        },
+        {
+          "name": "Mehsana",
+          "cases": "9684",
+          "recovered": "8032",
+          "deaths": "43",
+          "active": "1609"
+        },
+        {
+          "name": "Bhavnagar",
+          "cases": "8757",
+          "recovered": "7147",
+          "deaths": "79",
+          "active": "1531"
+        },
+        {
+          "name": "Junagadh",
+          "cases": "6954",
+          "recovered": "6105",
+          "deaths": "37",
+          "active": "812"
+        },
+        {
+          "name": "Patan",
+          "cases": "6169",
+          "recovered": "5099",
+          "deaths": "53",
+          "active": "1017"
+        },
+        {
+          "name": "Banaskantha",
+          "cases": "5927",
+          "recovered": "5404",
+          "deaths": "48",
+          "active": "475"
+        },
+        {
+          "name": "Kutch",
+          "cases": "5845",
+          "recovered": "5084",
+          "deaths": "33",
+          "active": "728"
+        },
+        {
+          "name": "Bharuch",
+          "cases": "5741",
+          "recovered": "4758",
+          "deaths": "25",
+          "active": "958"
+        },
+        {
+          "name": "Panchmahal",
+          "cases": "5575",
+          "recovered": "5036",
+          "deaths": "27",
+          "active": "512"
+        },
+        {
+          "name": "Amreli",
+          "cases": "4969",
+          "recovered": "4344",
+          "deaths": "36",
+          "active": "589"
+        },
+        {
+          "name": "Kheda",
+          "cases": "4551",
+          "recovered": "4263",
+          "deaths": "19",
+          "active": "269"
+        },
+        {
+          "name": "Dahod",
+          "cases": "4442",
+          "recovered": "4023",
+          "deaths": "8",
+          "active": "411"
+        },
+        {
+          "name": "Morbi",
+          "cases": "4306",
+          "recovered": "3734",
+          "deaths": "26",
+          "active": "546"
+        },
+        {
+          "name": "Surendranagar",
+          "cases": "4290",
+          "recovered": "3821",
+          "deaths": "25",
+          "active": "444"
+        },
+        {
+          "name": "Sabarkantha",
+          "cases": "4006",
+          "recovered": "3624",
+          "deaths": "22",
+          "active": "360"
+        },
+        {
+          "name": "Anand",
+          "cases": "3723",
+          "recovered": "3312",
+          "deaths": "19",
+          "active": "392"
+        },
+        {
+          "name": "Mahisagar",
+          "cases": "3109",
+          "recovered": "2578",
+          "deaths": "16",
+          "active": "515"
+        },
+        {
+          "name": "Narmada",
+          "cases": "3088",
+          "recovered": "2737",
+          "deaths": "1",
+          "active": "350"
+        },
+        {
+          "name": "Gir Somnath",
+          "cases": "3064",
+          "recovered": "2834",
+          "deaths": "24",
+          "active": "206"
+        },
+        {
+          "name": "Navsari",
+          "cases": "2549",
+          "recovered": "1933",
+          "deaths": "8",
+          "active": "608"
+        },
+        {
+          "name": "Valsad",
+          "cases": "2030",
+          "recovered": "1660",
+          "deaths": "10",
+          "active": "360"
+        },
+        {
+          "name": "Devbhumi Dwarka",
+          "cases": "1624",
+          "recovered": "1245",
+          "deaths": "6",
+          "active": "373"
+        },
+        {
+          "name": "Tapi",
+          "cases": "1601",
+          "recovered": "1252",
+          "deaths": "8",
+          "active": "341"
+        },
+        {
+          "name": "Aravalli",
+          "cases": "1519",
+          "recovered": "1293",
+          "deaths": "26",
+          "active": "200"
+        },
+        {
+          "name": "Botad",
+          "cases": "1347",
+          "recovered": "1110",
+          "deaths": "16",
+          "active": "221"
+        },
+        {
+          "name": "Chhota Udaipur",
+          "cases": "1301",
+          "recovered": "1187",
+          "deaths": "6",
+          "active": "108"
+        },
+        {
+          "name": "Porbandar",
+          "cases": "852",
+          "recovered": "806",
+          "deaths": "4",
+          "active": "42"
+        },
+        {
+          "name": "Dang",
+          "cases": "349",
+          "recovered": "286",
+          "deaths": "5",
+          "active": "58"
+        },
+        {
+          "name": "Other State",
+          "cases": "162",
+          "recovered": "159",
+          "deaths": "3",
+          "active": "0"
+        }
+      ],
+      "cases": "394229",
+      "recovered": "333564",
+      "active": "55398",
+      "deaths": "5267"
+    },
+    {
+      "name": "Odisha",
+      "districts": [
+        {
+          "name": "Khordha",
+          "cases": "57226",
+          "recovered": "54134",
+          "deaths": "351",
+          "active": "2741"
+        },
+        {
+          "name": "Cuttack",
+          "cases": "30693",
+          "recovered": "29631",
+          "deaths": "146",
+          "active": "916"
+        },
+        {
+          "name": "Ganjam",
+          "cases": "22483",
+          "recovered": "21931",
+          "deaths": "259",
+          "active": "293"
+        },
+        {
+          "name": "Sundargarh",
+          "cases": "20377",
+          "recovered": "16659",
+          "deaths": "178",
+          "active": "3540"
+        },
+        {
+          "name": "Puri",
+          "cases": "15385",
+          "recovered": "14613",
+          "deaths": "122",
+          "active": "650"
+        },
+        {
+          "name": "Mayurbhanj",
+          "cases": "14979",
+          "recovered": "14508",
+          "deaths": "93",
+          "active": "378"
+        },
+        {
+          "name": "Balasore",
+          "cases": "13273",
+          "recovered": "12553",
+          "deaths": "101",
+          "active": "619"
+        },
+        {
+          "name": "Jajpur",
+          "cases": "12932",
+          "recovered": "12536",
+          "deaths": "27",
+          "active": "369"
+        },
+        {
+          "name": "Angul",
+          "cases": "12115",
+          "recovered": "11741",
+          "deaths": "37",
+          "active": "337"
+        },
+        {
+          "name": "Bargarh",
+          "cases": "12064",
+          "recovered": "11093",
+          "deaths": "42",
+          "active": "929"
+        },
+        {
+          "name": "Sambalpur",
+          "cases": "11528",
+          "recovered": "10398",
+          "deaths": "80",
+          "active": "1050"
+        },
+        {
+          "name": "Balangir",
+          "cases": "9827",
+          "recovered": "9105",
+          "deaths": "47",
+          "active": "675"
+        },
+        {
+          "name": "Nuapada",
+          "cases": "9813",
+          "recovered": "8991",
+          "deaths": "29",
+          "active": "793"
+        },
+        {
+          "name": "Jagatsinghpur",
+          "cases": "9360",
+          "recovered": "9186",
+          "deaths": "38",
+          "active": "136"
+        },
+        {
+          "name": "State Pool",
+          "cases": "9312",
+          "recovered": "8682",
+          "deaths": "0",
+          "active": "630"
+        },
+        {
+          "name": "Kendrapara",
+          "cases": "9292",
+          "recovered": "9166",
+          "deaths": "30",
+          "active": "96"
+        },
+        {
+          "name": "Rayagada",
+          "cases": "8857",
+          "recovered": "8584",
+          "deaths": "45",
+          "active": "228"
+        },
+        {
+          "name": "Jharsuguda",
+          "cases": "8720",
+          "recovered": "8235",
+          "deaths": "27",
+          "active": "458"
+        },
+        {
+          "name": "Kendujhar",
+          "cases": "8682",
+          "recovered": "8211",
+          "deaths": "39",
+          "active": "432"
+        },
+        {
+          "name": "Koraput",
+          "cases": "8077",
+          "recovered": "7952",
+          "deaths": "16",
+          "active": "109"
+        },
+        {
+          "name": "Bhadrak",
+          "cases": "7903",
+          "recovered": "7568",
+          "deaths": "30",
+          "active": "305"
+        },
+        {
+          "name": "Kalahandi",
+          "cases": "7654",
+          "recovered": "6853",
+          "deaths": "35",
+          "active": "766"
+        },
+        {
+          "name": "Nayagarh",
+          "cases": "6665",
+          "recovered": "6496",
+          "deaths": "47",
+          "active": "122"
+        },
+        {
+          "name": "Nabarangapur",
+          "cases": "6620",
+          "recovered": "5966",
+          "deaths": "16",
+          "active": "638"
+        },
+        {
+          "name": "Kandhamal",
+          "cases": "6064",
+          "recovered": "5951",
+          "deaths": "33",
+          "active": "80"
+        },
+        {
+          "name": "Dhenkanal",
+          "cases": "5813",
+          "recovered": "5725",
+          "deaths": "29",
+          "active": "59"
+        },
+        {
+          "name": "Malkangiri",
+          "cases": "5269",
+          "recovered": "5222",
+          "deaths": "28",
+          "active": "19"
+        },
+        {
+          "name": "Subarnapur",
+          "cases": "4948",
+          "recovered": "4816",
+          "deaths": "21",
+          "active": "111"
+        },
+        {
+          "name": "Gajapati",
+          "cases": "4272",
+          "recovered": "4079",
+          "deaths": "33",
+          "active": "160"
+        },
+        {
+          "name": "Boudh",
+          "cases": "2868",
+          "recovered": "2819",
+          "deaths": "11",
+          "active": "38"
+        },
+        {
+          "name": "Deogarh",
+          "cases": "1523",
+          "recovered": "1421",
+          "deaths": "5",
+          "active": "97"
+        },
+        {
+          "name": "Others",
+          "cases": "0",
+          "recovered": "0",
+          "deaths": "0",
+          "active": "0"
+        }
+      ],
+      "cases": "364594",
+      "recovered": "344825",
+      "active": "17774",
+      "deaths": "1995"
+    },
+    {
+      "name": "Haryana",
+      "districts": [
+        {
+          "name": "Gurugram",
+          "cases": "79338",
+          "recovered": "68272",
+          "deaths": "376",
+          "active": "10690"
+        },
+        {
+          "name": "Faridabad",
+          "cases": "54750",
+          "recovered": "49661",
+          "deaths": "439",
+          "active": "4650"
+        },
+        {
+          "name": "Hisar",
+          "cases": "20028",
+          "recovered": "17644",
+          "deaths": "349",
+          "active": "2035"
+        },
+        {
+          "name": "Karnal",
+          "cases": "19355",
+          "recovered": "16077",
+          "deaths": "191",
+          "active": "3087"
+        },
+        {
+          "name": "Sonipat",
+          "cases": "18890",
+          "recovered": "16187",
+          "deaths": "92",
+          "active": "2611"
+        },
+        {
+          "name": "Ambala",
+          "cases": "16783",
+          "recovered": "14693",
+          "deaths": "180",
+          "active": "1910"
+        },
+        {
+          "name": "Panchkula",
+          "cases": "16609",
+          "recovered": "14422",
+          "deaths": "164",
+          "active": "2023"
+        },
+        {
+          "name": "Rohtak",
+          "cases": "13939",
+          "recovered": "12814",
+          "deaths": "161",
+          "active": "964"
+        },
+        {
+          "name": "Panipat",
+          "cases": "13850",
+          "recovered": "12133",
+          "deaths": "176",
+          "active": "1541"
+        },
+        {
+          "name": "Kurukshetra",
+          "cases": "13675",
+          "recovered": "11914",
+          "deaths": "163",
+          "active": "1598"
+        },
+        {
+          "name": "Rewari",
+          "cases": "11900",
+          "recovered": "11493",
+          "deaths": "77",
+          "active": "330"
+        },
+        {
+          "name": "Yamunanagar",
+          "cases": "11027",
+          "recovered": "9852",
+          "deaths": "187",
+          "active": "988"
+        },
+        {
+          "name": "Sirsa",
+          "cases": "9984",
+          "recovered": "8767",
+          "deaths": "125",
+          "active": "1092"
+        },
+        {
+          "name": "Jind",
+          "cases": "7627",
+          "recovered": "6268",
+          "deaths": "111",
+          "active": "1248"
+        },
+        {
+          "name": "Jhajjar",
+          "cases": "7282",
+          "recovered": "6386",
+          "deaths": "104",
+          "active": "792"
+        },
+        {
+          "name": "Bhiwani",
+          "cases": "7279",
+          "recovered": "6486",
+          "deaths": "157",
+          "active": "636"
+        },
+        {
+          "name": "Mahendragarh",
+          "cases": "6902",
+          "recovered": "6669",
+          "deaths": "22",
+          "active": "211"
+        },
+        {
+          "name": "Fatehabad",
+          "cases": "6423",
+          "recovered": "5253",
+          "deaths": "141",
+          "active": "1029"
+        },
+        {
+          "name": "Kaithal",
+          "cases": "5846",
+          "recovered": "5101",
+          "deaths": "77",
+          "active": "668"
+        },
+        {
+          "name": "Palwal",
+          "cases": "4726",
+          "recovered": "4518",
+          "deaths": "37",
+          "active": "171"
+        },
+        {
+          "name": "Nuh",
+          "cases": "1834",
+          "recovered": "1707",
+          "deaths": "31",
+          "active": "96"
+        },
+        {
+          "name": "Charkhi Dadri",
+          "cases": "1747",
+          "recovered": "1533",
+          "deaths": "26",
+          "active": "188"
+        },
+        {
+          "name": "Italians",
+          "cases": "0",
+          "recovered": "0",
+          "deaths": "0",
+          "active": "0"
+        },
+        {
+          "name": "Foreign Evacuees",
+          "cases": "0",
+          "recovered": "0",
+          "deaths": "0",
+          "active": "0"
+        }
+      ],
+      "cases": "349794",
+      "recovered": "307850",
+      "active": "38558",
+      "deaths": "3386"
+    },
+    {
+      "name": "Telangana",
+      "districts": [
+        {
+          "name": "Unknown",
+          "cases": "1048",
+          "recovered": "310457",
+          "deaths": "1779",
+          "active": "-311188"
+        }
+      ],
+      "cases": "346331",
+      "recovered": "311008",
+      "active": "33514",
+      "deaths": "1809"
+    },
+    {
+      "name": "Bihar",
+      "districts": [
+        {
+          "name": "Patna",
+          "cases": "70204",
+          "recovered": "57584",
+          "deaths": "502",
+          "active": "12118"
+        },
+        {
+          "name": "Muzaffarpur",
+          "cases": "14693",
+          "recovered": "12108",
+          "deaths": "57",
+          "active": "2528"
+        },
+        {
+          "name": "Bhagalpur",
+          "cases": "12978",
+          "recovered": "10370",
+          "deaths": "102",
+          "active": "2506"
+        },
+        {
+          "name": "Gaya",
+          "cases": "11948",
+          "recovered": "8287",
+          "deaths": "71",
+          "active": "3590"
+        },
+        {
+          "name": "Purnia",
+          "cases": "10432",
+          "recovered": "9767",
+          "deaths": "25",
+          "active": "640"
+        },
+        {
+          "name": "Begusarai",
+          "cases": "9680",
+          "recovered": "8529",
+          "deaths": "39",
+          "active": "1112"
+        },
+        {
+          "name": "East Champaran",
+          "cases": "9272",
+          "recovered": "8501",
+          "deaths": "56",
+          "active": "715"
+        },
+        {
+          "name": "Nalanda",
+          "cases": "9198",
+          "recovered": "8574",
+          "deaths": "65",
+          "active": "559"
+        },
+        {
+          "name": "Saran",
+          "cases": "8886",
+          "recovered": "7608",
+          "deaths": "65",
+          "active": "1213"
+        },
+        {
+          "name": "Madhubani",
+          "cases": "8299",
+          "recovered": "7910",
+          "deaths": "37",
+          "active": "352"
+        },
+        {
+          "name": "Saharsa",
+          "cases": "7939",
+          "recovered": "7046",
+          "deaths": "13",
+          "active": "880"
+        },
+        {
+          "name": "Rohtas",
+          "cases": "7859",
+          "recovered": "7050",
+          "deaths": "47",
+          "active": "762"
+        },
+        {
+          "name": "Araria",
+          "cases": "7813",
+          "recovered": "7455",
+          "deaths": "23",
+          "active": "335"
+        },
+        {
+          "name": "Katihar",
+          "cases": "7760",
+          "recovered": "7414",
+          "deaths": "18",
+          "active": "328"
+        },
+        {
+          "name": "West Champaran",
+          "cases": "7172",
+          "recovered": "6271",
+          "deaths": "26",
+          "active": "875"
+        },
+        {
+          "name": "Aurangabad",
+          "cases": "6677",
+          "recovered": "5670",
+          "deaths": "16",
+          "active": "991"
+        },
+        {
+          "name": "Gopalganj",
+          "cases": "6676",
+          "recovered": "5988",
+          "deaths": "15",
+          "active": "673"
+        },
+        {
+          "name": "Vaishali",
+          "cases": "6492",
+          "recovered": "5891",
+          "deaths": "52",
+          "active": "548"
+        },
+        {
+          "name": "Samastipur",
+          "cases": "6328",
+          "recovered": "5691",
+          "deaths": "37",
+          "active": "600"
+        },
+        {
+          "name": "Jehanabad",
+          "cases": "6192",
+          "recovered": "5024",
+          "deaths": "31",
+          "active": "1137"
+        },
+        {
+          "name": "Bhojpur",
+          "cases": "6080",
+          "recovered": "5403",
+          "deaths": "53",
+          "active": "624"
+        },
+        {
+          "name": "Supaul",
+          "cases": "6027",
+          "recovered": "5734",
+          "deaths": "21",
+          "active": "272"
+        },
+        {
+          "name": "Siwan",
+          "cases": "5972",
+          "recovered": "5126",
+          "deaths": "41",
+          "active": "805"
+        },
+        {
+          "name": "Munger",
+          "cases": "5561",
+          "recovered": "4516",
+          "deaths": "62",
+          "active": "983"
+        },
+        {
+          "name": "Madhepura",
+          "cases": "5413",
+          "recovered": "4999",
+          "deaths": "18",
+          "active": "396"
+        },
+        {
+          "name": "Nawada",
+          "cases": "4965",
+          "recovered": "4510",
+          "deaths": "30",
+          "active": "425"
+        },
+        {
+          "name": "Sitamarhi",
+          "cases": "4872",
+          "recovered": "4623",
+          "deaths": "18",
+          "active": "231"
+        },
+        {
+          "name": "Darbhanga",
+          "cases": "4752",
+          "recovered": "4449",
+          "deaths": "46",
+          "active": "257"
+        },
+        {
+          "name": "Kishanganj",
+          "cases": "4703",
+          "recovered": "4380",
+          "deaths": "13",
+          "active": "310"
+        },
+        {
+          "name": "Buxar",
+          "cases": "4678",
+          "recovered": "4141",
+          "deaths": "20",
+          "active": "517"
+        },
+        {
+          "name": "Lakhisarai",
+          "cases": "4334",
+          "recovered": "3880",
+          "deaths": "9",
+          "active": "445"
+        },
+        {
+          "name": "Banka",
+          "cases": "4049",
+          "recovered": "3775",
+          "deaths": "28",
+          "active": "246"
+        },
+        {
+          "name": "Jamui",
+          "cases": "3525",
+          "recovered": "3226",
+          "deaths": "12",
+          "active": "287"
+        },
+        {
+          "name": "Khagaria",
+          "cases": "3385",
+          "recovered": "3183",
+          "deaths": "16",
+          "active": "186"
+        },
+        {
+          "name": "Sheikhpura",
+          "cases": "3334",
+          "recovered": "3068",
+          "deaths": "14",
+          "active": "252"
+        },
+        {
+          "name": "Arwal",
+          "cases": "3034",
+          "recovered": "2516",
+          "deaths": "12",
+          "active": "506"
+        },
+        {
+          "name": "Kaimur",
+          "cases": "2558",
+          "recovered": "2366",
+          "deaths": "10",
+          "active": "182"
+        },
+        {
+          "name": "Sheohar",
+          "cases": "1687",
+          "recovered": "1574",
+          "deaths": "2",
+          "active": "111"
+        }
+      ],
+      "cases": "315427",
+      "recovered": "274207",
+      "active": "39497",
+      "deaths": "1722"
+    },
+    {
+      "name": "Punjab",
+      "districts": [
+        {
+          "name": "Ludhiana",
+          "cases": "42377",
+          "recovered": "36863",
+          "deaths": "1238",
+          "active": "4276"
+        },
+        {
+          "name": "Jalandhar",
+          "cases": "36280",
+          "recovered": "32076",
+          "deaths": "1010",
+          "active": "3194"
+        },
+        {
+          "name": "S.A.S. Nagar",
+          "cases": "35193",
+          "recovered": "28913",
+          "deaths": "497",
+          "active": "5783"
+        },
+        {
+          "name": "Patiala",
+          "cases": "27069",
+          "recovered": "23630",
+          "deaths": "662",
+          "active": "2777"
+        },
+        {
+          "name": "Amritsar",
+          "cases": "26281",
+          "recovered": "21734",
+          "deaths": "808",
+          "active": "3739"
+        },
+        {
+          "name": "Hoshiarpur",
+          "cases": "17542",
+          "recovered": "15684",
+          "deaths": "665",
+          "active": "1193"
+        },
+        {
+          "name": "Bathinda",
+          "cases": "14494",
+          "recovered": "12188",
+          "deaths": "280",
+          "active": "2026"
+        },
+        {
+          "name": "Gurdaspur",
+          "cases": "13122",
+          "recovered": "11400",
+          "deaths": "416",
+          "active": "1306"
+        },
+        {
+          "name": "Kapurthala",
+          "cases": "10820",
+          "recovered": "9798",
+          "deaths": "299",
+          "active": "723"
+        },
+        {
+          "name": "Shahid Bhagat Singh Nagar",
+          "cases": "8047",
+          "recovered": "7507",
+          "deaths": "216",
+          "active": "324"
+        },
+        {
+          "name": "Pathankot",
+          "cases": "7675",
+          "recovered": "6840",
+          "deaths": "186",
+          "active": "649"
+        },
+        {
+          "name": "Rupnagar",
+          "cases": "6773",
+          "recovered": "5550",
+          "deaths": "229",
+          "active": "994"
+        },
+        {
+          "name": "Sangrur",
+          "cases": "6646",
+          "recovered": "5782",
+          "deaths": "269",
+          "active": "595"
+        },
+        {
+          "name": "Ferozepur",
+          "cases": "6235",
+          "recovered": "5442",
+          "deaths": "186",
+          "active": "607"
+        },
+        {
+          "name": "Faridkot",
+          "cases": "5942",
+          "recovered": "5196",
+          "deaths": "101",
+          "active": "645"
+        },
+        {
+          "name": "Sri Muktsar Sahib",
+          "cases": "5342",
+          "recovered": "4582",
+          "deaths": "117",
+          "active": "643"
+        },
+        {
+          "name": "Fazilka",
+          "cases": "5325",
+          "recovered": "4524",
+          "deaths": "95",
+          "active": "706"
+        },
+        {
+          "name": "Tarn Taran",
+          "cases": "4510",
+          "recovered": "3694",
+          "deaths": "180",
+          "active": "636"
+        },
+        {
+          "name": "Fatehgarh Sahib",
+          "cases": "4358",
+          "recovered": "3959",
+          "deaths": "130",
+          "active": "269"
+        },
+        {
+          "name": "Moga",
+          "cases": "4283",
+          "recovered": "3668",
+          "deaths": "112",
+          "active": "503"
+        },
+        {
+          "name": "Mansa",
+          "cases": "3759",
+          "recovered": "3066",
+          "deaths": "57",
+          "active": "636"
+        },
+        {
+          "name": "Barnala",
+          "cases": "3065",
+          "recovered": "2709",
+          "deaths": "81",
+          "active": "275"
+        }
+      ],
+      "cases": "295138",
+      "recovered": "254805",
+      "active": "32499",
+      "deaths": "7834"
+    },
+    {
+      "name": "Assam",
+      "districts": [
+        {
+          "name": "Unknown",
+          "cases": "102534",
+          "recovered": "170623",
+          "deaths": "329",
+          "active": "-69765"
+        },
+        {
+          "name": "Kamrup Metropolitan",
+          "cases": "53391",
+          "recovered": "15370",
+          "deaths": "155",
+          "active": "37866"
+        },
+        {
+          "name": "Dibrugarh",
+          "cases": "10052",
+          "recovered": "2409",
+          "deaths": "102",
+          "active": "7541"
+        },
+        {
+          "name": "Jorhat",
+          "cases": "9003",
+          "recovered": "1752",
+          "deaths": "54",
+          "active": "7197"
+        },
+        {
+          "name": "Cachar",
+          "cases": "6397",
+          "recovered": "1498",
+          "deaths": "43",
+          "active": "4856"
+        },
+        {
+          "name": "Kamrup",
+          "cases": "4986",
+          "recovered": "2074",
+          "deaths": "36",
+          "active": "2876"
+        },
+        {
+          "name": "Nagaon",
+          "cases": "4772",
+          "recovered": "2506",
+          "deaths": "26",
+          "active": "2240"
+        },
+        {
+          "name": "Golaghat",
+          "cases": "3899",
+          "recovered": "1656",
+          "deaths": "46",
+          "active": "2197"
+        },
+        {
+          "name": "Tinsukia",
+          "cases": "3710",
+          "recovered": "1798",
+          "deaths": "43",
+          "active": "1869"
+        },
+        {
+          "name": "Lakhimpur",
+          "cases": "3046",
+          "recovered": "1135",
+          "deaths": "24",
+          "active": "1887"
+        },
+        {
+          "name": "Sonitpur",
+          "cases": "2761",
+          "recovered": "1727",
+          "deaths": "19",
+          "active": "1015"
+        },
+        {
+          "name": "Darrang",
+          "cases": "2041",
+          "recovered": "1730",
+          "deaths": "18",
+          "active": "293"
+        },
+        {
+          "name": "Dhubri",
+          "cases": "1762",
+          "recovered": "1215",
+          "deaths": "12",
+          "active": "535"
+        },
+        {
+          "name": "Hojai",
+          "cases": "1744",
+          "recovered": "1160",
+          "deaths": "14",
+          "active": "570"
+        },
+        {
+          "name": "Hailakandi",
+          "cases": "1646",
+          "recovered": "1116",
+          "deaths": "7",
+          "active": "523"
+        },
+        {
+          "name": "Bongaigaon",
+          "cases": "1405",
+          "recovered": "834",
+          "deaths": "7",
+          "active": "564"
+        },
+        {
+          "name": "Karimganj",
+          "cases": "1308",
+          "recovered": "955",
+          "deaths": "26",
+          "active": "327"
+        },
+        {
+          "name": "Barpeta",
+          "cases": "1240",
+          "recovered": "1024",
+          "deaths": "13",
+          "active": "203"
+        },
+        {
+          "name": "Nalbari",
+          "cases": "1026",
+          "recovered": "828",
+          "deaths": "17",
+          "active": "181"
+        },
+        {
+          "name": "Dhemaji",
+          "cases": "818",
+          "recovered": "440",
+          "deaths": "8",
+          "active": "370"
+        },
+        {
+          "name": "Udalguri",
+          "cases": "796",
+          "recovered": "666",
+          "deaths": "8",
+          "active": "122"
+        },
+        {
+          "name": "Karbi Anglong",
+          "cases": "743",
+          "recovered": "552",
+          "deaths": "11",
+          "active": "180"
+        },
+        {
+          "name": "Goalpara",
+          "cases": "728",
+          "recovered": "568",
+          "deaths": "10",
+          "active": "38"
+        },
+        {
+          "name": "Baksa",
+          "cases": "724",
+          "recovered": "447",
+          "deaths": "8",
+          "active": "269"
+        },
+        {
+          "name": "Morigaon",
+          "cases": "695",
+          "recovered": "557",
+          "deaths": "9",
+          "active": "129"
+        },
+        {
+          "name": "Sivasagar",
+          "cases": "594",
+          "recovered": "473",
+          "deaths": "35",
+          "active": "86"
+        },
+        {
+          "name": "Biswanath",
+          "cases": "512",
+          "recovered": "379",
+          "deaths": "8",
+          "active": "125"
+        },
+        {
+          "name": "Kokrajhar",
+          "cases": "487",
+          "recovered": "353",
+          "deaths": "12",
+          "active": "122"
+        },
+        {
+          "name": "Chirang",
+          "cases": "324",
+          "recovered": "219",
+          "deaths": "8",
+          "active": "97"
+        },
+        {
+          "name": "Dima Hasao",
+          "cases": "252",
+          "recovered": "199",
+          "deaths": "2",
+          "active": "51"
+        },
+        {
+          "name": "Majuli",
+          "cases": "168",
+          "recovered": "80",
+          "deaths": "6",
+          "active": "82"
+        },
+        {
+          "name": "Charaideo",
+          "cases": "131",
+          "recovered": "105",
+          "deaths": "11",
+          "active": "15"
+        },
+        {
+          "name": "South Salmara Mankachar",
+          "cases": "58",
+          "recovered": "47",
+          "deaths": "1",
+          "active": "10"
+        },
+        {
+          "name": "West Karbi Anglong",
+          "cases": "42",
+          "recovered": "37",
+          "deaths": "1",
+          "active": "4"
+        },
+        {
+          "name": "Airport Quarantine",
+          "cases": "13",
+          "recovered": "13",
+          "deaths": "0",
+          "active": "0"
+        },
+        {
+          "name": "Other State",
+          "cases": "8",
+          "recovered": "1",
+          "deaths": "0",
+          "active": "7"
+        }
+      ],
+      "cases": "223816",
+      "recovered": "216546",
+      "active": "4794",
+      "deaths": "1129"
+    },
+    {
+      "name": "Jharkhand",
+      "districts": [
+        {
+          "name": "Ranchi",
+          "cases": "49671",
+          "recovered": "38810",
+          "deaths": "356",
+          "active": "10505"
+        },
+        {
+          "name": "East Singhbhum",
+          "cases": "24012",
+          "recovered": "20234",
+          "deaths": "411",
+          "active": "3367"
+        },
+        {
+          "name": "Dhanbad",
+          "cases": "9359",
+          "recovered": "8336",
+          "deaths": "155",
+          "active": "868"
+        },
+        {
+          "name": "Bokaro",
+          "cases": "8221",
+          "recovered": "7248",
+          "deaths": "84",
+          "active": "889"
+        },
+        {
+          "name": "Hazaribagh",
+          "cases": "5866",
+          "recovered": "4525",
+          "deaths": "43",
+          "active": "1298"
+        },
+        {
+          "name": "Ramgarh",
+          "cases": "5675",
+          "recovered": "4773",
+          "deaths": "36",
+          "active": "866"
+        },
+        {
+          "name": "West Singhbhum",
+          "cases": "5572",
+          "recovered": "5084",
+          "deaths": "44",
+          "active": "444"
+        },
+        {
+          "name": "Deoghar",
+          "cases": "4868",
+          "recovered": "4114",
+          "deaths": "26",
+          "active": "728"
+        },
+        {
+          "name": "Koderma",
+          "cases": "4800",
+          "recovered": "3737",
+          "deaths": "36",
+          "active": "1027"
+        },
+        {
+          "name": "Palamu",
+          "cases": "4029",
+          "recovered": "3706",
+          "deaths": "27",
+          "active": "296"
+        },
+        {
+          "name": "Saraikela-Kharsawan",
+          "cases": "3912",
+          "recovered": "3722",
+          "deaths": "12",
+          "active": "178"
+        },
+        {
+          "name": "Giridih",
+          "cases": "3733",
+          "recovered": "3594",
+          "deaths": "20",
+          "active": "119"
+        },
+        {
+          "name": "Garhwa",
+          "cases": "3270",
+          "recovered": "2889",
+          "deaths": "16",
+          "active": "365"
+        },
+        {
+          "name": "Gumla",
+          "cases": "3235",
+          "recovered": "2626",
+          "deaths": "10",
+          "active": "599"
+        },
+        {
+          "name": "Khunti",
+          "cases": "2862",
+          "recovered": "2238",
+          "deaths": "10",
+          "active": "614"
+        },
+        {
+          "name": "Godda",
+          "cases": "2684",
+          "recovered": "2371",
+          "deaths": "17",
+          "active": "296"
+        },
+        {
+          "name": "Simdega",
+          "cases": "2592",
+          "recovered": "2188",
+          "deaths": "13",
+          "active": "391"
+        },
+        {
+          "name": "Latehar",
+          "cases": "2524",
+          "recovered": "2013",
+          "deaths": "10",
+          "active": "501"
+        },
+        {
+          "name": "Sahibganj",
+          "cases": "2516",
+          "recovered": "2078",
+          "deaths": "18",
+          "active": "420"
+        },
+        {
+          "name": "Dumka",
+          "cases": "2440",
+          "recovered": "1655",
+          "deaths": "22",
+          "active": "763"
+        },
+        {
+          "name": "Lohardaga",
+          "cases": "2246",
+          "recovered": "1873",
+          "deaths": "15",
+          "active": "358"
+        },
+        {
+          "name": "Jamtara",
+          "cases": "1816",
+          "recovered": "1539",
+          "deaths": "6",
+          "active": "271"
+        },
+        {
+          "name": "Chatra",
+          "cases": "1805",
+          "recovered": "1440",
+          "deaths": "15",
+          "active": "350"
+        },
+        {
+          "name": "Pakur",
+          "cases": "1245",
+          "recovered": "1135",
+          "deaths": "4",
+          "active": "106"
+        }
+      ],
+      "cases": "158953",
+      "recovered": "131928",
+      "active": "25619",
+      "deaths": "1406"
+    },
+    {
+      "name": "Jammu and Kashmir",
+      "districts": [
+        {
+          "name": "Srinagar",
+          "cases": "34170",
+          "recovered": "29827",
+          "deaths": "485",
+          "active": "3858"
+        },
+        {
+          "name": "Jammu",
+          "cases": "28490",
+          "recovered": "25751",
+          "deaths": "397",
+          "active": "2342"
+        },
+        {
+          "name": "Baramulla",
+          "cases": "10339",
+          "recovered": "9139",
+          "deaths": "183",
+          "active": "1017"
+        },
+        {
+          "name": "Budgam",
+          "cases": "8908",
+          "recovered": "8335",
+          "deaths": "123",
+          "active": "450"
+        },
+        {
+          "name": "Pulwama",
+          "cases": "6275",
+          "recovered": "5932",
+          "deaths": "93",
+          "active": "250"
+        },
+        {
+          "name": "Kupwara",
+          "cases": "6131",
+          "recovered": "5795",
+          "deaths": "98",
+          "active": "238"
+        },
+        {
+          "name": "Anantnag",
+          "cases": "5554",
+          "recovered": "5174",
+          "deaths": "99",
+          "active": "281"
+        },
+        {
+          "name": "Udhampur",
+          "cases": "5151",
+          "recovered": "4517",
+          "deaths": "58",
+          "active": "576"
+        },
+        {
+          "name": "Bandipora",
+          "cases": "4960",
+          "recovered": "4780",
+          "deaths": "63",
+          "active": "117"
+        },
+        {
+          "name": "Ganderbal",
+          "cases": "4906",
+          "recovered": "4709",
+          "deaths": "49",
+          "active": "148"
+        },
+        {
+          "name": "Rajouri",
+          "cases": "4056",
+          "recovered": "3852",
+          "deaths": "56",
+          "active": "148"
+        },
+        {
+          "name": "Kathua",
+          "cases": "3718",
+          "recovered": "3422",
+          "deaths": "53",
+          "active": "243"
+        },
+        {
+          "name": "Doda",
+          "cases": "3527",
+          "recovered": "3424",
+          "deaths": "64",
+          "active": "39"
+        },
+        {
+          "name": "Kulgam",
+          "cases": "3141",
+          "recovered": "2870",
+          "deaths": "57",
+          "active": "214"
+        },
+        {
+          "name": "Samba",
+          "cases": "3044",
+          "recovered": "2830",
+          "deaths": "43",
+          "active": "171"
+        },
+        {
+          "name": "Kishtwar",
+          "cases": "2804",
+          "recovered": "2765",
+          "deaths": "22",
+          "active": "17"
+        },
+        {
+          "name": "Shopiyan",
+          "cases": "2745",
+          "recovered": "2619",
+          "deaths": "40",
+          "active": "86"
+        },
+        {
+          "name": "Punch",
+          "cases": "2632",
+          "recovered": "2524",
+          "deaths": "29",
+          "active": "79"
+        },
+        {
+          "name": "Reasi",
+          "cases": "2409",
+          "recovered": "1794",
+          "deaths": "16",
+          "active": "599"
+        },
+        {
+          "name": "Ramban",
+          "cases": "2206",
+          "recovered": "2146",
+          "deaths": "23",
+          "active": "37"
+        },
+        {
+          "name": "Muzaffarabad",
+          "cases": "0",
+          "recovered": "0",
+          "deaths": "0",
+          "active": "0"
+        },
+        {
+          "name": "Mirpur",
+          "cases": "0",
+          "recovered": "0",
+          "deaths": "0",
+          "active": "0"
+        }
+      ],
+      "cases": "145166",
+      "recovered": "132205",
+      "active": "10910",
+      "deaths": "2051"
+    },
+    {
+      "name": "Uttarakhand",
+      "districts": [
+        {
+          "name": "Dehradun",
+          "cases": "39973",
+          "recovered": "32073",
+          "deaths": "1057",
+          "active": "6398"
+        },
+        {
+          "name": "Haridwar",
+          "cases": "20731",
+          "recovered": "15539",
+          "deaths": "185",
+          "active": "4481"
+        },
+        {
+          "name": "Nainital",
+          "cases": "15223",
+          "recovered": "13267",
+          "deaths": "258",
+          "active": "1577"
+        },
+        {
+          "name": "Udham Singh Nagar",
+          "cases": "13358",
+          "recovered": "12006",
+          "deaths": "127",
+          "active": "866"
+        },
+        {
+          "name": "Pauri Garhwal",
+          "cases": "6000",
+          "recovered": "5266",
+          "deaths": "61",
+          "active": "599"
+        },
+        {
+          "name": "Tehri Garhwal",
+          "cases": "5013",
+          "recovered": "4173",
+          "deaths": "18",
+          "active": "399"
+        },
+        {
+          "name": "Uttarkashi",
+          "cases": "3948",
+          "recovered": "3710",
+          "deaths": "18",
+          "active": "78"
+        },
+        {
+          "name": "Almora",
+          "cases": "3678",
+          "recovered": "3188",
+          "deaths": "27",
+          "active": "230"
+        },
+        {
+          "name": "Chamoli",
+          "cases": "3671",
+          "recovered": "3424",
+          "deaths": "19",
+          "active": "110"
+        },
+        {
+          "name": "Pithoragarh",
+          "cases": "3534",
+          "recovered": "3387",
+          "deaths": "48",
+          "active": "87"
+        },
+        {
+          "name": "Rudraprayag",
+          "cases": "2537",
+          "recovered": "2301",
+          "deaths": "10",
+          "active": "219"
+        },
+        {
+          "name": "Champawat",
+          "cases": "2045",
+          "recovered": "1798",
+          "deaths": "11",
+          "active": "219"
+        },
+        {
+          "name": "Bageshwar",
+          "cases": "1692",
+          "recovered": "1527",
+          "deaths": "17",
+          "active": "123"
+        }
+      ],
+      "cases": "121403",
+      "recovered": "101659",
+      "active": "15386",
+      "deaths": "1856"
+    },
+    {
+      "name": "Himachal Pradesh",
+      "districts": [
+        {
+          "name": "Shimla",
+          "cases": "12234",
+          "recovered": "11074",
+          "deaths": "295",
+          "active": "861"
+        },
+        {
+          "name": "Kangra",
+          "cases": "12051",
+          "recovered": "9994",
+          "deaths": "261",
+          "active": "1794"
+        },
+        {
+          "name": "Mandi",
+          "cases": "11655",
+          "recovered": "10738",
+          "deaths": "144",
+          "active": "773"
+        },
+        {
+          "name": "Solan",
+          "cases": "9451",
+          "recovered": "7866",
+          "deaths": "80",
+          "active": "1505"
+        },
+        {
+          "name": "Una",
+          "cases": "5333",
+          "recovered": "4423",
+          "deaths": "87",
+          "active": "822"
+        },
+        {
+          "name": "Kullu",
+          "cases": "4980",
+          "recovered": "4582",
+          "deaths": "89",
+          "active": "295"
+        },
+        {
+          "name": "Sirmaur",
+          "cases": "4784",
+          "recovered": "4128",
+          "deaths": "43",
+          "active": "613"
+        },
+        {
+          "name": "Hamirpur",
+          "cases": "4572",
+          "recovered": "3805",
+          "deaths": "57",
+          "active": "709"
+        },
+        {
+          "name": "Bilaspur",
+          "cases": "3987",
+          "recovered": "3483",
+          "deaths": "28",
+          "active": "475"
+        },
+        {
+          "name": "Chamba",
+          "cases": "3495",
+          "recovered": "3218",
+          "deaths": "54",
+          "active": "217"
+        },
+        {
+          "name": "Lahaul and Spiti",
+          "cases": "1543",
+          "recovered": "1247",
+          "deaths": "13",
+          "active": "283"
+        },
+        {
+          "name": "Kinnaur",
+          "cases": "1502",
+          "recovered": "1389",
+          "deaths": "16",
+          "active": "97"
+        }
+      ],
+      "cases": "75587",
+      "recovered": "65947",
+      "active": "8444",
+      "deaths": "1167"
+    },
+    {
+      "name": "Goa",
+      "districts": [
+        {
+          "name": "Unknown",
+          "cases": "59882",
+          "recovered": "56185",
+          "deaths": "680",
+          "active": "3017"
+        },
+        {
+          "name": "South Goa",
+          "cases": "3511",
+          "recovered": "1407",
+          "deaths": "126",
+          "active": "1978"
+        },
+        {
+          "name": "North Goa",
+          "cases": "2668",
+          "recovered": "964",
+          "deaths": "65",
+          "active": "1639"
+        },
+        {
+          "name": "Other State",
+          "cases": "200",
+          "recovered": "190",
+          "deaths": "1",
+          "active": "9"
+        }
+      ],
+      "cases": "66261",
+      "recovered": "58746",
+      "active": "6643",
+      "deaths": "872"
+    },
+    {
+      "name": "Puducherry",
+      "districts": [
+        {
+          "name": "Puducherry",
+          "cases": "36643",
+          "recovered": "33079",
+          "deaths": "563",
+          "active": "3001"
+        },
+        {
+          "name": "Karaikal",
+          "cases": "5548",
+          "recovered": "4724",
+          "deaths": "83",
+          "active": "741"
+        },
+        {
+          "name": "Mahe",
+          "cases": "2532",
+          "recovered": "2375",
+          "deaths": "13",
+          "active": "144"
+        },
+        {
+          "name": "Yanam",
+          "cases": "2385",
+          "recovered": "2135",
+          "deaths": "46",
+          "active": "204"
+        }
+      ],
+      "cases": "47108",
+      "recovered": "42313",
+      "active": "4090",
+      "deaths": "705"
+    },
+    {
+      "name": "Tripura",
+      "districts": [
+        {
+          "name": "West Tripura",
+          "cases": "12113",
+          "recovered": "11588",
+          "deaths": "196",
+          "active": "318"
+        },
+        {
+          "name": "South Tripura",
+          "cases": "4077",
+          "recovered": "4040",
+          "deaths": "23",
+          "active": "11"
+        },
+        {
+          "name": "Gomati",
+          "cases": "3949",
+          "recovered": "3887",
+          "deaths": "44",
+          "active": "17"
+        },
+        {
+          "name": "Dhalai",
+          "cases": "3492",
+          "recovered": "3461",
+          "deaths": "18",
+          "active": "12"
+        },
+        {
+          "name": "Sipahijala",
+          "cases": "2901",
+          "recovered": "2851",
+          "deaths": "40",
+          "active": "10"
+        },
+        {
+          "name": "North Tripura",
+          "cases": "2775",
+          "recovered": "2742",
+          "deaths": "16",
+          "active": "10"
+        },
+        {
+          "name": "Unokoti",
+          "cases": "2773",
+          "recovered": "2747",
+          "deaths": "23",
+          "active": "3"
+        },
+        {
+          "name": "Khowai",
+          "cases": "1850",
+          "recovered": "1814",
+          "deaths": "31",
+          "active": "5"
+        }
+      ],
+      "cases": "33930",
+      "recovered": "33130",
+      "active": "386",
+      "deaths": "391"
+    },
+    {
+      "name": "Chandigarh",
+      "districts": [
+        {
+          "name": "Chandigarh",
+          "cases": "33309",
+          "recovered": "29485",
+          "deaths": "410",
+          "active": "3414"
+        }
+      ],
+      "cases": "33309",
+      "recovered": "29485",
+      "active": "3414",
+      "deaths": "410"
+    },
+    {
+      "name": "Manipur",
+      "districts": [
+        {
+          "name": "Imphal West",
+          "cases": "9024",
+          "recovered": "52",
+          "deaths": "102",
+          "active": "8870"
+        },
+        {
+          "name": "Imphal East",
+          "cases": "5765",
+          "recovered": "150",
+          "deaths": "77",
+          "active": "5538"
+        },
+        {
+          "name": "CAPF Personnel",
+          "cases": "2689",
+          "recovered": "1417",
+          "deaths": "2",
+          "active": "1270"
+        },
+        {
+          "name": "Thoubal",
+          "cases": "2357",
+          "recovered": "23",
+          "deaths": "40",
+          "active": "2294"
+        },
+        {
+          "name": "Churachandpur",
+          "cases": "1540",
+          "recovered": "58",
+          "deaths": "29",
+          "active": "1453"
+        },
+        {
+          "name": "Unknown",
+          "cases": "1416",
+          "recovered": "27139",
+          "deaths": "62",
+          "active": "-25785"
+        },
+        {
+          "name": "Tamenglong",
+          "cases": "1400",
+          "recovered": "32",
+          "deaths": "6",
+          "active": "1362"
+        },
+        {
+          "name": "Bishnupur",
+          "cases": "1361",
+          "recovered": "58",
+          "deaths": "25",
+          "active": "1278"
+        },
+        {
+          "name": "Kakching",
+          "cases": "835",
+          "recovered": "27",
+          "deaths": "8",
+          "active": "800"
+        },
+        {
+          "name": "Kangpokpi",
+          "cases": "634",
+          "recovered": "19",
+          "deaths": "10",
+          "active": "605"
+        },
+        {
+          "name": "Ukhrul",
+          "cases": "545",
+          "recovered": "18",
+          "deaths": "3",
+          "active": "524"
+        },
+        {
+          "name": "Senapati",
+          "cases": "509",
+          "recovered": "21",
+          "deaths": "1",
+          "active": "487"
+        },
+        {
+          "name": "Chandel",
+          "cases": "382",
+          "recovered": "4",
+          "deaths": "9",
+          "active": "369"
+        },
+        {
+          "name": "Noney",
+          "cases": "335",
+          "recovered": "18",
+          "deaths": "1",
+          "active": "316"
+        },
+        {
+          "name": "Tengnoupal",
+          "cases": "293",
+          "recovered": "13",
+          "deaths": "1",
+          "active": "279"
+        },
+        {
+          "name": "Jiribam",
+          "cases": "273",
+          "recovered": "2",
+          "deaths": "0",
+          "active": "271"
+        },
+        {
+          "name": "Kamjong",
+          "cases": "254",
+          "recovered": "17",
+          "deaths": "0",
+          "active": "237"
+        },
+        {
+          "name": "Pherzawl",
+          "cases": "37",
+          "recovered": "15",
+          "deaths": "0",
+          "active": "22"
+        }
+      ],
+      "cases": "29649",
+      "recovered": "29083",
+      "active": "190",
+      "deaths": "376"
+    },
+    {
+      "name": "Arunachal Pradesh",
+      "districts": [
+        {
+          "name": "Papum Pare",
+          "cases": "6826",
+          "recovered": "6754",
+          "deaths": "29",
+          "active": "43"
+        },
+        {
+          "name": "Changlang",
+          "cases": "1285",
+          "recovered": "1280",
+          "deaths": "4",
+          "active": "1"
+        },
+        {
+          "name": "East Siang",
+          "cases": "1149",
+          "recovered": "1140",
+          "deaths": "4",
+          "active": "5"
+        },
+        {
+          "name": "West Siang",
+          "cases": "1030",
+          "recovered": "1027",
+          "deaths": "3",
+          "active": "0"
+        },
+        {
+          "name": "West Kameng",
+          "cases": "961",
+          "recovered": "950",
+          "deaths": "4",
+          "active": "7"
+        },
+        {
+          "name": "Tirap",
+          "cases": "591",
+          "recovered": "589",
+          "deaths": "2",
+          "active": "0"
+        },
+        {
+          "name": "Lohit",
+          "cases": "576",
+          "recovered": "574",
+          "deaths": "0",
+          "active": "2"
+        },
+        {
+          "name": "Lower Dibang Valley",
+          "cases": "514",
+          "recovered": "479",
+          "deaths": "0",
+          "active": "35"
+        },
+        {
+          "name": "Tawang",
+          "cases": "493",
+          "recovered": "490",
+          "deaths": "2",
+          "active": "1"
+        },
+        {
+          "name": "Upper Subansiri",
+          "cases": "443",
+          "recovered": "441",
+          "deaths": "2",
+          "active": "0"
+        },
+        {
+          "name": "Namsai",
+          "cases": "442",
+          "recovered": "432",
+          "deaths": "4",
+          "active": "6"
+        },
+        {
+          "name": "Lower Subansiri",
+          "cases": "382",
+          "recovered": "380",
+          "deaths": "1",
+          "active": "1"
+        },
+        {
+          "name": "Upper Siang",
+          "cases": "362",
+          "recovered": "361",
+          "deaths": "0",
+          "active": "1"
+        },
+        {
+          "name": "East Kameng",
+          "cases": "306",
+          "recovered": "304",
+          "deaths": "0",
+          "active": "2"
+        },
+        {
+          "name": "Lepa Rada",
+          "cases": "290",
+          "recovered": "289",
+          "deaths": "0",
+          "active": "1"
+        },
+        {
+          "name": "Lower Siang",
+          "cases": "287",
+          "recovered": "287",
+          "deaths": "0",
+          "active": "0"
+        },
+        {
+          "name": "Longding",
+          "cases": "250",
+          "recovered": "250",
+          "deaths": "0",
+          "active": "0"
+        },
+        {
+          "name": "Anjaw",
+          "cases": "204",
+          "recovered": "204",
+          "deaths": "0",
+          "active": "0"
+        },
+        {
+          "name": "Siang",
+          "cases": "133",
+          "recovered": "132",
+          "deaths": "1",
+          "active": "0"
+        },
+        {
+          "name": "Pakke Kessang",
+          "cases": "132",
+          "recovered": "132",
+          "deaths": "0",
+          "active": "0"
+        },
+        {
+          "name": "Kurung Kumey",
+          "cases": "117",
+          "recovered": "117",
+          "deaths": "0",
+          "active": "0"
+        },
+        {
+          "name": "Shi Yomi",
+          "cases": "104",
+          "recovered": "104",
+          "deaths": "0",
+          "active": "0"
+        },
+        {
+          "name": "Kra Daadi",
+          "cases": "37",
+          "recovered": "37",
+          "deaths": "0",
+          "active": "0"
+        },
+        {
+          "name": "Kamle",
+          "cases": "30",
+          "recovered": "30",
+          "deaths": "0",
+          "active": "0"
+        },
+        {
+          "name": "Upper Dibang Valley",
+          "cases": "23",
+          "recovered": "23",
+          "deaths": "0",
+          "active": "0"
+        }
+      ],
+      "cases": "16967",
+      "recovered": "16806",
+      "active": "105",
+      "deaths": "56"
+    },
+    {
+      "name": "Meghalaya",
+      "districts": [
+        {
+          "name": "East Khasi Hills",
+          "cases": "9281",
+          "recovered": "8682",
+          "deaths": "126",
+          "active": "473"
+        },
+        {
+          "name": "West Garo Hills",
+          "cases": "1751",
+          "recovered": "1726",
+          "deaths": "17",
+          "active": "8"
+        },
+        {
+          "name": "Ribhoi",
+          "cases": "1438",
+          "recovered": "1403",
+          "deaths": "2",
+          "active": "33"
+        },
+        {
+          "name": "West Jaintia Hills",
+          "cases": "642",
+          "recovered": "542",
+          "deaths": "1",
+          "active": "99"
+        },
+        {
+          "name": "East Jaintia Hills",
+          "cases": "570",
+          "recovered": "554",
+          "deaths": "0",
+          "active": "16"
+        },
+        {
+          "name": "East Garo Hills",
+          "cases": "339",
+          "recovered": "338",
+          "deaths": "1",
+          "active": "0"
+        },
+        {
+          "name": "South West Garo Hills",
+          "cases": "200",
+          "recovered": "198",
+          "deaths": "2",
+          "active": "0"
+        },
+        {
+          "name": "South Garo Hills",
+          "cases": "198",
+          "recovered": "198",
+          "deaths": "0",
+          "active": "0"
+        },
+        {
+          "name": "West Khasi Hills",
+          "cases": "197",
+          "recovered": "181",
+          "deaths": "1",
+          "active": "15"
+        },
+        {
+          "name": "North Garo Hills",
+          "cases": "121",
+          "recovered": "118",
+          "deaths": "2",
+          "active": "1"
+        },
+        {
+          "name": "South West Khasi Hills",
+          "cases": "61",
+          "recovered": "57",
+          "deaths": "0",
+          "active": "4"
+        }
+      ],
+      "cases": "14798",
+      "recovered": "13997",
+      "active": "649",
+      "deaths": "152"
+    },
+    {
+      "name": "Nagaland",
+      "districts": [
+        {
+          "name": "Dimapur",
+          "cases": "6594",
+          "recovered": "6351",
+          "deaths": "64",
+          "active": "90"
+        },
+        {
+          "name": "Kohima",
+          "cases": "4075",
+          "recovered": "3948",
+          "deaths": "21",
+          "active": "56"
+        },
+        {
+          "name": "Mon",
+          "cases": "605",
+          "recovered": "594",
+          "deaths": "2",
+          "active": "0"
+        },
+        {
+          "name": "Peren",
+          "cases": "507",
+          "recovered": "506",
+          "deaths": "0",
+          "active": "0"
+        },
+        {
+          "name": "Tuensang",
+          "cases": "250",
+          "recovered": "248",
+          "deaths": "1",
+          "active": "0"
+        },
+        {
+          "name": "Mokokchung",
+          "cases": "207",
+          "recovered": "184",
+          "deaths": "4",
+          "active": "10"
+        },
+        {
+          "name": "Zunheboto",
+          "cases": "142",
+          "recovered": "139",
+          "deaths": "0",
+          "active": "0"
+        },
+        {
+          "name": "Phek",
+          "cases": "53",
+          "recovered": "47",
+          "deaths": "0",
+          "active": "6"
+        },
+        {
+          "name": "Kiphire",
+          "cases": "41",
+          "recovered": "40",
+          "deaths": "1",
+          "active": "0"
+        },
+        {
+          "name": "Wokha",
+          "cases": "40",
+          "recovered": "35",
+          "deaths": "1",
+          "active": "2"
+        },
+        {
+          "name": "Longleng",
+          "cases": "22",
+          "recovered": "10",
+          "deaths": "0",
+          "active": "3"
+        },
+        {
+          "name": "Others",
+          "cases": "0",
+          "recovered": "0",
+          "deaths": "0",
+          "active": "0"
+        }
+      ],
+      "cases": "12536",
+      "recovered": "12102",
+      "active": "167",
+      "deaths": "94"
+    },
+    {
+      "name": "Ladakh",
+      "districts": [
+        {
+          "name": "Leh",
+          "cases": "9469",
+          "recovered": "8086",
+          "deaths": "88",
+          "active": "1295"
+        },
+        {
+          "name": "Kargil",
+          "cases": "2240",
+          "recovered": "2128",
+          "deaths": "44",
+          "active": "68"
+        }
+      ],
+      "cases": "11709",
+      "recovered": "10214",
+      "active": "1363",
+      "deaths": "132"
+    },
+    {
+      "name": "Sikkim",
+      "districts": [
+        {
+          "name": "Unknown",
+          "cases": "3944",
+          "recovered": "4814",
+          "deaths": "133",
+          "active": "-1144"
+        },
+        {
+          "name": "East Sikkim",
+          "cases": "1980",
+          "recovered": "1106",
+          "deaths": "3",
+          "active": "871"
+        },
+        {
+          "name": "South Sikkim",
+          "cases": "534",
+          "recovered": "73",
+          "deaths": "0",
+          "active": "461"
+        },
+        {
+          "name": "West Sikkim",
+          "cases": "115",
+          "recovered": "15",
+          "deaths": "0",
+          "active": "100"
+        },
+        {
+          "name": "North Sikkim",
+          "cases": "18",
+          "recovered": "1",
+          "deaths": "0",
+          "active": "17"
+        }
+      ],
+      "cases": "6591",
+      "recovered": "6009",
+      "active": "305",
+      "deaths": "136"
+    },
+    {
+      "name": "Andaman and Nicobar Islands",
+      "districts": [
+        {
+          "name": "Unknown",
+          "cases": "5279",
+          "recovered": "5113",
+          "deaths": "64",
+          "active": "102"
+        },
+        {
+          "name": "South Andaman",
+          "cases": "51",
+          "recovered": "32",
+          "deaths": "0",
+          "active": "19"
+        },
+        {
+          "name": "North and Middle Andaman",
+          "cases": "1",
+          "recovered": "1",
+          "deaths": "0",
+          "active": "0"
+        },
+        {
+          "name": "Nicobars",
+          "cases": "0",
+          "recovered": "0",
+          "deaths": "0",
+          "active": "0"
+        }
+      ],
+      "cases": "5331",
+      "recovered": "5146",
+      "active": "121",
+      "deaths": "64"
+    },
+    {
+      "name": "Mizoram",
+      "districts": [
+        {
+          "name": "Aizawl",
+          "cases": "3182",
+          "recovered": "2945",
+          "deaths": "11",
+          "active": "226"
+        },
+        {
+          "name": "Lunglei",
+          "cases": "445",
+          "recovered": "418",
+          "deaths": "0",
+          "active": "27"
+        },
+        {
+          "name": "Lawngtlai",
+          "cases": "353",
+          "recovered": "340",
+          "deaths": "0",
+          "active": "13"
+        },
+        {
+          "name": "Kolasib",
+          "cases": "322",
+          "recovered": "298",
+          "deaths": "0",
+          "active": "24"
+        },
+        {
+          "name": "Serchhip",
+          "cases": "190",
+          "recovered": "179",
+          "deaths": "1",
+          "active": "10"
+        },
+        {
+          "name": "Champhai",
+          "cases": "111",
+          "recovered": "103",
+          "deaths": "0",
+          "active": "8"
+        },
+        {
+          "name": "Mamit",
+          "cases": "88",
+          "recovered": "84",
+          "deaths": "0",
+          "active": "4"
+        },
+        {
+          "name": "Saiha",
+          "cases": "39",
+          "recovered": "39",
+          "deaths": "0",
+          "active": "0"
+        },
+        {
+          "name": "Saitual",
+          "cases": "33",
+          "recovered": "33",
+          "deaths": "0",
+          "active": "0"
+        },
+        {
+          "name": "Hnahthial",
+          "cases": "23",
+          "recovered": "21",
+          "deaths": "0",
+          "active": "2"
+        },
+        {
+          "name": "Khawzawl",
+          "cases": "23",
+          "recovered": "23",
+          "deaths": "0",
+          "active": "0"
+        }
+      ],
+      "cases": "4809",
+      "recovered": "4483",
+      "active": "314",
+      "deaths": "12"
+    },
+    {
+      "name": "Dadra and Nagar Haveli and Daman and Diu",
+      "districts": [
+        {
+          "name": "Dadra and Nagar Haveli",
+          "cases": "2495",
+          "recovered": "1892",
+          "deaths": "3",
+          "active": "595"
+        },
+        {
+          "name": "Daman",
+          "cases": "1869",
+          "recovered": "1548",
+          "deaths": "1",
+          "active": "294"
+        },
+        {
+          "name": "Diu",
+          "cases": "312",
+          "recovered": "312",
+          "deaths": "0",
+          "active": "0"
+        },
+        {
+          "name": "Other State",
+          "cases": "0",
+          "recovered": "0",
+          "deaths": "0",
+          "active": "0"
+        }
+      ],
+      "cases": "4676",
+      "recovered": "3752",
+      "active": "889",
+      "deaths": "4"
+    },
+    {
+      "name": "Lakshadweep",
+      "districts": [
+        {
+          "name": "Lakshadweep",
+          "cases": "1051",
+          "recovered": "765",
+          "deaths": "1",
+          "active": "280"
+        }
+      ],
+      "cases": "1051",
+      "recovered": "765",
+      "active": "280",
+      "deaths": "1"
+    }
+  ],
+  "india": "Total",
+  "cases": "14782461",
+  "recovered": "12805094",
+  "active": "1793976",
+  "deaths": "177167"
+}

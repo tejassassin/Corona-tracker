@@ -1,0 +1,154 @@
+
+
+.wtable{
+  overflow-x: scroll;
+  overflow-y: scroll;
+  height: 470px;
+  border: 1px solid white;
+  border-radius: 10px;
+  margin: 10px 0;
+
+
+
+}
+
+.table {
+  width: 850px;
+  color: #6a5d5d;
+  border-radius: 10px;
+  /* border: 1px solid white; */
+
+ 
+}
+
+.table td {
+  padding: 8px 10px;
+  border-bottom: 1px solid white;
+  font-weight: 600;
+  /* display: block; */
+  /* align-items: center; */
+  /* margin-top: auto; */
+  height: 18px;
+  width: 145px;
+  overflow: hidden; 
+  text-overflow: ellipsis;
+  white-space: nowrap; 
+}
+
+.table tr {
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  
+}
+
+.table tr:hover {
+  background-color: rgba(44, 53, 109, 0.3);
+  cursor: pointer;
+}
+
+/* .panel {
+  padding: 0 18px;
+  background-color: white;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+}
+.accordion {
+  cursor: pointer;
+  transition: 0.4s;
+} */
+
+.active,
+.accordion:hover {
+  background-color: rgba(44, 53, 109, 0.3);
+  cursor: pointer;
+}
+
+.side {
+  height: 470px;
+  width: auto;
+  color: #6a5d5d;
+  margin: 10px 0;
+  border-radius: 10px;
+  border: 1px solid white;
+  overflow-y: scroll;
+  overflow-x: scroll;
+}
+
+.table2 {
+  width: 100%;
+  /* color: #6a5d5d; */
+  display: table;
+  overflow-y: scroll;
+  overflow-x: scroll;
+}
+
+.vis {
+  margin-left: 20px;
+  border: 1px solid black;
+}
+
+.sheader {
+  display: flex;
+  color: white;
+}
+.sheader div {
+  padding: 8px 10px;
+  border-bottom: 1px solid white;
+  font-weight: 600;
+}
+
+.sheader {
+  display: flex;
+  flex-direction: row;
+  /* border-bottom: 1px solid white; */
+  font-weight: 600;
+  color: white;
+  width: auto;
+}
+
+.srow {
+  display: flex;
+  flex-direction: row;
+  /* opacity: 1; */
+}
+.scells {
+  padding: 8px 10px;
+  /* display: inline; */
+  /* border-top: 1px solid white; */
+  border-bottom: 1px solid white;
+  width: 100px;
+  height: 18px;
+  font-weight: 600;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.row {
+  /* display: flex; */
+  /* flex-direction: row; */
+  display: table-row;
+  height: 20px;
+  /* display: none; */
+  /* width: 100%; */
+  border: 1px solid white;
+  border-radius: 35px;
+}
+.cells {
+  padding: 6px 10px;
+  color: white;
+  width: 100px;
+  font-weight: 400;
+  display: table-cell;
+  border-bottom: 1px solid black;
+  height: 18px;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+}
+.disttable {
+  width: 100%;
+}

@@ -1,0 +1,54 @@
+.infobox{
+    width: 23%;
+    cursor: pointer;
+    border-top: 3px solid #fff;
+    border-radius: 8px 8px 0 0;
+    background-color: #feffff;
+}
+.MuiCardContent-root:last-child {
+    padding-bottom: 24px;
+    /* background-color: grey; */
+}
+
+.infobox.cases.infobox__active{
+    border-top:4px solid #cc1034;
+}
+.infobox.recovered.infobox__active{
+    border-top:4px solid #7dd71d;
+}
+.infobox.deaths.infobox__active{
+    border-top:4px solid #333;
+}
+.infobox.activecase.infobox__active{
+    border-top:4px solid orange;
+}
+.infobox.cases .infobox__cases{
+    color:#cc1034 !important;
+}
+.infobox.recovered .infobox__cases{
+    color:#7dd71d !important;
+}
+.infobox.activecase .infobox__cases{
+    color:orange !important;
+}
+.infobox.deaths .infobox__cases{
+    color:#333 !important;
+}
+.infobox__updated{
+    font-size: 12px !important;
+    opacity: .5;
+}
+.MuiPaper-elevation1{
+    box-shadow: none !important;
+}
+.MuiPaper-rounded{
+    border-radius: 0 0 4px 4px;
+}
+.MuiCardContent-root:last-child{
+    padding-bottom: 16px;
+}
+
+.infobox__title,.infobox__updated,.infobox__total{
+    /* padding:100px; */
+    /* font-weight: 800; */
+}
